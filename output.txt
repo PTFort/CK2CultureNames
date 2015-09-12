@@ -1,14 +1,3 @@
-Russia : finnish = Suomi
-Russia : lappish = Suomi
-Russia : ugricbaltic = Suomi
-Russia : komi = Suomi
-Russia : samoyed = Suomi
-Russia : mordvin = Suomi
-Britannia : welsh = Prydain
-Britannia : irish = Alba
-Britannia : scottish = Alba
-Britannia : pictish = Alba
-Britannia : breton = Prydain
 Empires:
 Britannia
 	Alba: Irish, Scottish, Pictish
@@ -31,46 +20,46 @@ England
 Finland
 	Suomi: Finnish, Lappish, Ugricbaltic, Komi, Samoyed, Mordvin
 Ireland
-	Iuerthon: Pictish
+	Iwerddon: Welsh
+	Irland: Norse, Swedish, Danish, Norwegian
 	Éire: Irish
 	Iwerzhon: Breton
-	Irland: Norse, Swedish, Danish, Norwegian
-	Iwerddon: Welsh
+	Iuerthon: Pictish
 Khiva
 	Sogdiana: Sogdian
 Khotan
-	Ytarimypoy: Tocharian
-	Uyghurstan: Turkish
 	Altishahr: Uyghur
+	Uyghurstan: Turkish
+	Ytarimypoy: Tocharian
 Mongolia
-	Kirghiz: Kirghiz
 	Uyghur: Uyghur
+	Kirghiz: Kirghiz
 Norway
-	Norge: Danish, Swedish, Norwegian
 	Noregr: Norse
+	Norge: Danish, Swedish, Norwegian
 Rus
 	Garðariki: Norse
 Ruthenia
-	Könugarðr: Norse
 	Könugård: Swedish
+	Könugarðr: Norse
 	Kønugård: Norwegian, Danish
 Scotland
-	Alban: Welsh
 	Alba: Irish, Breton
-	Skotland: Norse, Danish
-	Pictland: Pictish
 	Skottland: Swedish, Norwegian
+	Pictland: Pictish
+	Alban: Welsh
+	Skotland: Norse, Danish
 Sweden
 	Sviþjod: Norse
 Wales
-	Kembre: Breton
 	Brythoniaid: Welsh, Pictish
+	Kembre: Breton
 
 
 Duchies:
 Albany
-	Alban: Pictish, Welsh
 	Albanigh: Irish
+	Alban: Pictish, Welsh
 Apulia
 	Longobardia: Greek
 Belo Ozero
@@ -78,11 +67,11 @@ Belo Ozero
 Brandenburg
 	Sorbia # Brennaburg: Pommeranian
 Brittany
+	Breizh: Breton
 	Bertangaland: Norse
+	Bretagne: Frankish
 	Briotáine: Irish
 	Llydaw: Welsh
-	Breizh: Breton
-	Bretagne: Frankish
 Capua
 	Neapolis: Greek
 Chernigov
@@ -103,13 +92,13 @@ Essex
 	Bedford: Norman, English
 Esztergom
 	Gran: German
-	Ostrogon: Croatian
 	Ostrihom: Bohemian
+	Ostrogon: Croatian
 Finland
 	Satakunta: Finnish, Lappish, Ugricbaltic, Komi, Samoyed, Mordvin
 Galloway
-	Nouantia: Pictish
 	Strathclyde: Welsh
+	Nouantia: Pictish
 Hwicce
 	Gloucester: Norman, English
 Iceland
@@ -122,19 +111,19 @@ Jämtland
 	Jemtland: Norwegian, Danish
 	Jamtaland: Norse
 Karashar
+	Qocho: Uyghur
 	Yanghi: Turkish
 	Agnidesa: Sogdian
-	Qocho: Uyghur
 Karelia
-	Karelen: Swedish, Danish, Norse, Norwegian
 	Kareliya: Russian
+	Karelen: Swedish, Danish, Norse, Norwegian
 Kashgar
 	Kasake: Tocharian
 Khotan
 	Hotan: Uyghur
 Kiev
-	Könugarðr: Norse
 	Könugård: Swedish
+	Könugarðr: Norse
 	Kønugård: Norwegian, Danish
 Kipchak
 	Pecheneg: Pecheneg
@@ -143,22 +132,22 @@ Kumul
 Lancaster
 	Rheged: Welsh
 Leinster
-	Veisafjorðr: Norse
-	Laigin: Irish
 	Veisafjord: Norwegian, Swedish, Danish
+	Laigin: Irish
+	Veisafjorðr: Norse
 Lothian
-	Labhdaidh: Irish
 	Gododdin: Welsh
+	Labhdaidh: Irish
 	Lut: Pictish
 Man
-	Mann: Norwegian, Danish, Swedish, Norse
-	Manaw: Welsh
 	Mhannin: Irish
+	Mann: Norwegian, Danish, Swedish, Norse
 	Manu: Pictish
+	Manaw: Welsh
 Meath
-	Mide: Irish
 	Dyflinn: Norse
 	Dublin: Norwegian, Danish, Swedish
+	Mide: Irish
 Mecklenburg
 	Obotritia: Pommeranian
 Meissen
@@ -169,20 +158,20 @@ Moldau
 	Pecheneg: Pecheneg
 Moray
 	Gwrturio: Welsh
-	Fortriu: Pictish
 	Muireb: Irish
+	Fortriu: Pictish
 Moskva
 	Mochkava: Mordvin
 Munster
-	Hlymrek: Norwegian, Norse
-	Lymrek: Danish, Swedish
 	Mumu: Irish
+	Lymrek: Danish, Swedish
+	Hlymrek: Norwegian, Norse
 Northumberland
 	Northumbria: Saxon
 Novgorod
+	Ilmen: Ilmenian, Severian, Mordvin, Samoyed, Finnish, Lappish, Ugricbaltic, Komi, Khanty
 	Holmgarðr: Norse
 	Holmgård: Swedish, Danish, Norwegian
-	Ilmen: Ilmenian, Severian, Mordvin, Samoyed, Finnish, Lappish, Ugricbaltic, Komi, Khanty
 Nyitra
 	Nitra: Bohemian
 	Neutra: German
@@ -199,14 +188,14 @@ Ryazan
 Salerno
 	Lukania: Greek
 Samogitia
-	Zhmudz: Polish
-	Zemaiteje: Lettigallish
-	Sameiten: German
-	Zhmud: Prussian, Russian, Pommeranian, Bohemian
 	Zemaitija: Lithuanian
+	Zemaiteje: Lettigallish
+	Zhmud: Prussian, Russian, Pommeranian, Bohemian
+	Sameiten: German
+	Zhmudz: Polish
 Sjælland
-	Sjælland: Norse
 	Zealand: English
+	Sjælland: Norse
 	Själland: Swedish
 Skåne
 	Scania: English
@@ -215,8 +204,8 @@ Smolensk
 Småland
 	Smáland: Norse
 Temes
-	Tamis: Serbian
 	Timis: Romanian
+	Tamis: Serbian
 The Isles
 	Söröarna: Swedish
 	Suðreyjar: Norse
@@ -226,12 +215,12 @@ Turov
 Tver
 	Vyatich: Ilmenian, Severian
 Ulster
-	Strangfjorðr: Norse
 	Ulaidh: Irish
+	Strangfjorðr: Norse
 	Strangfjord: Norwegian, Swedish, Danish
 Ungvar
-	Chrobatia: Croatian
 	Uzhorod: Bohemian
+	Chrobatia: Croatian
 Uppland
 	Sviþjod: Norse
 Vidin
@@ -241,8 +230,8 @@ Vitebsk
 Vladimir
 	Murom: Mordvin, Samoyed
 Västergötland
-	Vestergautland: Norse
 	Vestergøtland: Norwegian, Danish
+	Vestergautland: Norse
 Yaroslavl
 	Merya: Finnish, Lappish, Ugricbaltic, Komi, Samoyed, Mordvin
 York
@@ -261,16 +250,16 @@ Abydos
 Adrianopolis
 	Edirne: Turkish
 Agrigento
-	Kerkent: Andalusian, Maghreb, Bedouin, Egyptian, Levantine
 	Agrigenton: Greek
+	Kerkent: Andalusian, Maghreb, Bedouin, Egyptian, Levantine
 Aksu
 	Bharuka: Tocharian
 Albania
 	Aghvank: Armenian
 	Albaneti: Georgian
 Alexandretta
-	Iskandarun: Bedouin, Maghreb, Levantine, Egyptian, Andalusian, Turkish
 	Hrosos: Armenian
+	Iskandarun: Bedouin, Maghreb, Levantine, Egyptian, Andalusian, Turkish
 Altmark
 	Laczyn: Pommeranian
 Amisos
@@ -322,21 +311,21 @@ Brandenburg
 Breifne
 	Bréifne: Irish
 Buchan
-	Cai: Welsh
 	Ce: Pictish
+	Cai: Welsh
 	Beanaomh: Irish
 Caithness
+	Katanæs: Danish, Norse
+	Cataibh: Irish
 	Katanes: Norwegian
+	Cait: Pictish
 	Caitnys: Welsh
 	Katanäs: Swedish
-	Cataibh: Irish
-	Katanæs: Danish, Norse
-	Cait: Pictish
 Capua
 	Gaeta: Greek
 Carrick
-	Aeron: Welsh
 	Ueron: Pictish
+	Aeron: Welsh
 Cephalonia
 	Iyonya: Turkish
 Chandax
@@ -381,9 +370,9 @@ Dorpat
 Dorylaion
 	Kütahya: Turkish
 Dublin
-	Dulyn: Welsh
 	Dubhlinn: Irish
 	Dyflinn: Norse
+	Dulyn: Welsh
 Dunbar
 	Utudina: Pictish
 Dunhuang
@@ -395,23 +384,23 @@ Durham
 Dwin
 	Erivan: Turkish
 Dyrrachion
-	Durazzo: Italian
 	Drach: Bulgarian
 	Drac: Serbian
+	Durazzo: Italian
 Ephesos
 	Ayasoluk: Turkish
 Erchis
 	Irtysh: Turkish, Cuman
 Esztergom
 	Gran: German
-	Ostrogon: Croatian
 	Ostrihom: Bohemian
+	Ostrogon: Croatian
 Euboia
-	Egriboz: Turkish
 	Negroponte: Italian
+	Egriboz: Turkish
 Faereyar
-	Färöarna: Swedish
 	Caliu: Pictish
+	Färöarna: Swedish
 Famagusta
 	Magusa: Turkish
 Faro
@@ -422,16 +411,16 @@ Fejer
 	Stuhlweiss: German
 	Bila: Croatian
 Fife
-	Gwidd: Welsh
 	Fìobha: Irish
+	Gwidd: Welsh
 	Fib: Pictish
 Finland
 	Finland: Swedish, Norwegian, Norse, Danish
 Galatia
 	Kirsehir: Turkish
 Galloway
-	Nouantia: Pictish
 	Nofant: Welsh
+	Nouantia: Pictish
 Gastrikland
 	Gestrikland: Norwegian, Danish
 Gemer
@@ -439,8 +428,8 @@ Gemer
 Gnieznienskie
 	Gnesen: German, Swedish, Norse, Norwegian, Danish
 Gowrie
-	Gobharaidh: Irish
 	Circinn: Pictish
+	Gobharaidh: Irish
 Guria
 	Batum: Turkish
 	Lazike: Greek
@@ -456,8 +445,8 @@ Herakleia
 Hereford
 	Ergyng: Welsh
 Herjedalen
-	Herjadal: Norse
 	Härjedalen: Swedish
+	Herjadal: Norse
 Holstein
 	Holsten: Danish, Swedish, Norwegian
 Hum
@@ -465,9 +454,9 @@ Hum
 Ikonion
 	Konya: Turkish
 Innse Gall
+	Carnonac: Pictish
 	Söröarna: Swedish
 	Suðreyjar: Norse
-	Carnonac: Pictish
 	Søreyar: Norwegian, Danish
 Isle of Man
 	Mann: Norwegian, Danish, Swedish, Norse
@@ -478,8 +467,8 @@ Jamtland
 	Jamtaland: Norse
 Jarnbaraland
 	Dalecarlia: English
-	Jernbæraland: Norwegian, Danish
 	Járnberaland: Norse
+	Jernbæraland: Norwegian, Danish
 Jylland
 	Jutland: English
 	Jütland: German
@@ -492,14 +481,14 @@ Kandalax
 Kaneia
 	Hanya: Turkish
 Kara Khoja
-	Turtam: Tocharian
 	Qocho: Uyghur
+	Turtam: Tocharian
 Kara Khorum
 	Karabalgasun: Uyghur
 Karashar
 	Yanghi: Turkish
-	Agnidesa: Sogdian
 	Arsi: Tocharian
+	Agnidesa: Sogdian
 Karelen
 	Østkarelen: Danish, Norwegian
 	Östkarelen: Swedish, Norse
@@ -515,17 +504,17 @@ Kexholm
 Khotan
 	Hotan: Uyghur
 Kiev
-	Könugarðr: Norse
 	Könugård: Swedish
+	Könugarðr: Norse
 	Kønugård: Norwegian, Danish
 Krakowskie
 	Krakau: German, Swedish, Norse, Norwegian, Danish
 Kucha
-	Kuci: Tocharian
 	Kucina: Sogdian
+	Kuci: Tocharian
 Kumul
-	Kunlyu: Tocharian
 	Qamil: Mongol
+	Kunlyu: Tocharian
 Kurs
 	Kurland: German, Swedish, Norse, Danish, Norwegian
 Kyzikos
@@ -537,9 +526,9 @@ Lausitz
 Lecce
 	Brendesion: Greek
 Leinster
-	Veisafjorðr: Norse
-	Laigin: Irish
 	Veisafjord: Norwegian, Swedish, Danish
+	Laigin: Irish
+	Veisafjorðr: Norse
 Lesbos
 	Midilli: Turkish
 Lettigalians
@@ -559,12 +548,12 @@ Lothian
 	Lut: Pictish
 	Lleuddiniawn: Welsh
 Loulan
-	Qroran: Uyghur
 	Krorän: Tocharian
+	Qroran: Uyghur
 Lubeck
-	Lybæk: Danish, Norwegian
 	Lybæck: Norse
 	Liubice: Pommeranian, Polish, Bohemian, Prussian
+	Lybæk: Danish, Norwegian
 	Lybäck: Swedish
 Lubusz
 	Lebus: German, Swedish, Norse, Norwegian, Danish
@@ -589,8 +578,8 @@ Messina
 	Messene: Greek
 Moray
 	Gwrturio: Welsh
-	Fortriu: Pictish
 	Muireb: Irish
+	Fortriu: Pictish
 More
 	Møre: Danish, Norwegian
 Moskva
@@ -606,8 +595,8 @@ Nantes
 Napoli
 	Neapolis: Greek
 Narke
-	Nerke: Danish
 	Nerike: Norwegian, Norse
+	Nerke: Danish
 Naxos
 	Kiklad: Turkish
 	Egeopelagi: Italian
@@ -630,13 +619,13 @@ Ochrid
 Oland
 	Øland: Norwegian, Danish
 Onega
-	Onega: Swedish, Norse, Danish, Norwegian
 	Onezhskoe: Russian
+	Onega: Swedish, Norse, Danish, Norwegian
 Opole
 	Uppeln: German, Swedish, Norse, Norwegian, Danish
 Orava
-	Árva: Hungarian
 	Arwa: German
+	Árva: Hungarian
 Oriel
 	Airgíalla: Irish
 Orkney
@@ -647,26 +636,26 @@ Ormond
 	Veðrafjorðr: Norse
 	Vedrafjord: Norwegian, Swedish, Danish
 Osel
-	Ösel: Swedish, Norse, German
 	Øsel: Danish, Norwegian
+	Ösel: Swedish, Norse, German
 Ossory
 	Osraige: Irish
 Osterbotten
-	Østerbotten: Norwegian, Danish
 	Österbotten: Swedish
 	Austerbotn: Norse
+	Østerbotten: Norwegian, Danish
 Ostergotland
 	Østergøtland: Norwegian, Danish
 	Austergautland: Norse
 Palermo
-	Panarmos: Greek
 	Balharm: Maghreb, Levantine, Egyptian, Bedouin, Andalusian
+	Panarmos: Greek
 Paphlagonia
 	Kastamonu: Turkish
 Pecs
-	Pecuj: Serbian
 	Pecuh: Croatian
 	Fünfkirchen: German
+	Pecuj: Serbian
 Penthievre
 	Domnonia: Breton
 Philippopolis
@@ -689,8 +678,8 @@ Pskov
 Qalqut
 	Kallikkottai: Tamil
 Ragusa
-	Raugia: Greek
 	Dubrovnik: Croatian, Serbian
+	Raugia: Greek
 Rashka
 	Rascia: Greek
 Reggio
@@ -723,10 +712,10 @@ Savolaks
 Seleukeia
 	Silifke: Turkish
 Senj
-	Segna: Italian
-	Attienities: Greek
 	Zeng: Hungarian
+	Segna: Italian
 	Zengg: German
+	Attienities: Greek
 Serdica
 	Sofia: Bulgarian, Serbian, Croatian, Russian, Polish
 Shetland
@@ -740,8 +729,8 @@ Silves
 Siracusa
 	Syrakousa: Greek
 Sjaelland
-	Sjælland: Norse
 	Zealand: English
+	Sjælland: Norse
 	Själland: Swedish
 Skane
 	Scania: English
@@ -754,8 +743,8 @@ Smolensk
 Smyrna
 	Izmir: Turkish
 Sodermanland
-	Sudermanland: Norse
 	Sødermanland: Norwegian, Danish
+	Sudermanland: Norse
 Sopron
 	Ödenburg: German
 Sozopolis
@@ -768,8 +757,8 @@ Stettin
 Strathearn
 	Uuanun: Pictish
 Suenik
-	Kafan: Turkish, Persian
 	Syunik: Armenian
+	Kafan: Turkish, Persian
 Suzdal
 	Sursdalar: Swedish, Norse, Danish, Norwegian
 Szekelyfold
@@ -791,25 +780,25 @@ Teluch
 	Gâvur: Turkish
 	Doliche: Greek
 Temes
-	Tamis: Serbian
 	Timis: Romanian
+	Tamis: Serbian
 Teviotdale
 	Heluua: Pictish
-	Calchfynydd: Welsh
 	Cealsaidh: Irish
+	Calchfynydd: Welsh
 Thessalia
 	Tesalya: Turkish
 Thessalonike
 	Salonika: Turkish
 Thomond
-	Hlymrek: Norwegian, Norse
-	Lymrek: Danish, Swedish
 	Tuadhmhumhain: Irish
+	Lymrek: Danish, Swedish
+	Hlymrek: Norwegian, Norse
 Toledo
 	Tulaytulah: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
 Trapani
-	Mazar: Andalusian, Maghreb, Bedouin, Egyptian, Levantine
 	Drepanon: Greek
+	Mazar: Andalusian, Maghreb, Bedouin, Egyptian, Levantine
 Tyana
 	Aksaray: Turkish
 Tyrnovo
@@ -817,8 +806,8 @@ Tyrnovo
 Tyrus
 	Sur: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
 Ulster
-	Strangfjorðr: Norse
 	Ulaidh: Irish
+	Strangfjorðr: Norse
 	Strangfjord: Norwegian, Swedish, Danish
 Valencia
 	Balansiyya: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
@@ -826,9 +815,9 @@ Vannes
 	Guened: Welsh
 	Broërec: Breton
 Varmland
+	Vermland: Norwegian
 	Værmland: Danish
 	Vermaland: Norse
-	Vermland: Norwegian
 Vas
 	Eisenburg: German
 	Zelezna: Croatian
@@ -839,14 +828,14 @@ Vasterbotten
 	Vesterbotten: Norwegian, Danish
 	Vesterbotn: Norse
 Vastergotland
-	Vestergautland: Norse
 	Vestergøtland: Norwegian, Danish
+	Vestergautland: Norse
 Vastmanland
-	Vestmannaland: Norse
 	Vestmanland: Norwegian, Danish
+	Vestmannaland: Norse
 Veglia
-	Vegl: German
 	Kyrikon: Greek
+	Vegl: German
 Vestisland
 	Västisland: Swedish
 Vidin
@@ -854,8 +843,8 @@ Vidin
 Viken
 	Alfheimr: Norse
 Vodi
-	Inkeri: Finnish
 	Ingriya: Russian, Ilmenian, Severian
+	Inkeri: Finnish
 	Ingermanland: Swedish
 Werle
 	Dymin: Pommeranian
@@ -875,11 +864,11 @@ Zaragoza
 Zemigalians
 	Riga: German, Swedish, Norse, Danish, Norwegian
 Zhmud
-	Zhmudz: Polish
-	Zemaiteje: Lettigallish
-	Sameiten: German
-	Zhmud: Prussian, Russian, Pommeranian, Bohemian
 	Zemaitija: Lithuanian
+	Zemaiteje: Lettigallish
+	Zhmud: Prussian, Russian, Pommeranian, Bohemian
+	Sameiten: German
+	Zhmudz: Polish
 
 
 Baronies:
@@ -894,8 +883,8 @@ Abercorn
 Aberdeen
 	Aberdwyafon: Welsh
 Aberffraw
-	Anglesey: English, Saxon
 	Ongullsøy: Norwegian
+	Anglesey: English, Saxon
 Abydos
 	Balakhisar: Turkish
 Adapazari
@@ -923,8 +912,8 @@ Ancyra
 Anklam
 	Taglim: Pommeranian
 Annandale
-	Peball: Pictish
 	Pebyll: Welsh
+	Peball: Pictish
 Apamea
 	Tirilye: Turkish
 	Trigleia: Greek
@@ -938,8 +927,8 @@ Archelais
 Ardagh
 	Ardachadh: Irish
 Ardchattan
-	Uchdarcathan: Pictish
 	Uchdercaddan: Welsh
+	Uchdarcathan: Pictish
 Artake
 	Erdek: Turkish
 Ascalon
@@ -947,8 +936,8 @@ Ascalon
 Attaleia
 	Antalya: Turkish
 Auchterarder
-	Uchel: Pictish
 	Hufenaruchel: Welsh
+	Uchel: Pictish
 Avaskär
 	Avaskær: Danish, Norwegian
 Avoch
@@ -967,15 +956,15 @@ Bamburgh
 	Bamborg: Norwegian, Danish, Swedish, Norse
 Banff
 	Beanaomh: Irish
-	Banaugluas: Pictish
 	Benywglwys: Welsh
+	Banaugluas: Pictish
 Bar
-	Antivari: Italian
 	Antivarion: Greek
+	Antivari: Italian
 Barda
+	Partavi: Alan
 	Partav: Armenian
 	Bardavi: Georgian
-	Partavi: Alan
 Bari
 	Barion: Greek
 Barkul
@@ -994,14 +983,14 @@ Beshbalik
 Bezeklik
 	Biseklis: Tocharian
 Birsay
-	Birgishærad: Norwegian, Danish, Norse
-	Brìghdechuala: Irish
-	Ffraidclywed: Welsh
 	Brideclauet: Pictish
 	Birgishärad: Swedish
+	Birgishærad: Norwegian, Danish, Norse
+	Ffraidclywed: Welsh
+	Brìghdechuala: Irish
 Bjärtrå
-	Bjertrå: Norwegian
 	Bjærtrå: Danish
+	Bjertrå: Norwegian
 Blachernae
 	Ayvansaray: Turkish
 Blair Atholl
@@ -1026,8 +1015,8 @@ Brzeg
 Butrint
 	Bouthroton: Greek
 Cadzow
-	Guofan: Welsh
 	Uuohan: Pictish
+	Guofan: Welsh
 Calicut
 	Kallikkottai: Tamil
 Callan
@@ -1039,11 +1028,11 @@ Carhaix
 Carlow
 	Ceatharlach: Irish
 Castrum Maris
-	Ghawdesh: Andalusian, Maghreb, Bedouin, Egyptian, Levantine
 	Ogygia: Greek
+	Ghawdesh: Andalusian, Maghreb, Bedouin, Egyptian, Levantine
 Cavtat
-	Ragusavecchia: Italian
 	Epidauros: Greek
+	Ragusavecchia: Italian
 Cawdor
 	Caerdurn: Pictish
 	Caerdwrn: Welsh
@@ -1051,8 +1040,8 @@ Cawdor
 Cerigo
 	Çuha: Turkish
 Chalkis
-	Egriboz: Turkish
 	Negroponte: Italian
+	Egriboz: Turkish
 Changji
 	Sanji: Uyghur
 Charkliq
@@ -1083,15 +1072,15 @@ Clogher
 Cloyne
 	Cluain: Irish
 Clunie
+	Cluainidh: Irish
 	Luned: Pictish
 	Llynaedd: Welsh
-	Cluainidh: Irish
 Coimbra
 	Qulumriyah: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
 Coldingham
-	Lanbrin: Pictish
-	Llanbryn: Welsh
 	Cillecnoc: Irish
+	Llanbryn: Welsh
+	Lanbrin: Pictish
 Conisbrough
 	Kungsborg: Norwegian, Danish, Swedish, Norse
 Constantinople
@@ -1106,56 +1095,56 @@ Cottbus
 	Chosebuz: Pommeranian
 Crichton
 	Ffinioltref: Welsh
-	Criochdún: Irish
 	Finuultreh: Pictish
+	Criochdún: Irish
 Crieff
+	Craoibh: Irish
 	Coeden: Welsh
 	Coiden: Pictish
-	Craoibh: Irish
 Cromarty
-	Crombati: Irish
 	Crucabachu: Pictish
+	Crombati: Irish
 	Crwcabachwy: Welsh
 Cuenca
 	Kunka: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
 Culzean
-	Pinaglan: Pictish
 	Pennyglyn: Welsh
+	Pinaglan: Pictish
 Cunningsburgh
 	Konungsborg: Norwegian, Danish, Swedish, Norse
 	Rìghdùn: Irish
 Cupar
+	Cyffredin: Welsh
 	Compàirt: Irish
 	Cafredun: Pictish
-	Cyffredin: Welsh
 Danzig
 	Gdansk: Pommeranian, Polish, Bohemian, Russian, Prussian, Lithuanian, Lettigallish
 	Danzig: Swedish, Norse, Norwegian, Danish
 Dar-us Soltan
 	Kaladasht: Armenian, Georgian, Alan
 Darieium
-	Dorieion: Greek
 	Sögüt: Turkish
+	Dorieion: Greek
 Daugavpils
-	Väinänlinna: Finnish
-	Dynaborg: Swedish, Norse, Danish, Norwegian
-	Dyneburg: Polish
-	Dünaburg: German
-	Väinalinn: Ugricbaltic
 	Daugpilis: Lithuanian
+	Väinänlinna: Finnish
+	Dyneburg: Polish
 	Dvinsk: Russian
+	Dünaburg: German
+	Dynaborg: Swedish, Norse, Danish, Norwegian
+	Väinalinn: Ugricbaltic
 Deer
-	Ceiru: Pictish
 	Fiadh: Irish
+	Ceiru: Pictish
 	Ceirw: Welsh
 Derby
 	Djuraby: Norwegian, Danish, Swedish, Norse
 Deuteron
 	Topkapi: Turkish
 Dingwall
-	Tingvall: Norwegian, Danish, Swedish, Norse
 	Aberpis: Pictish
 	Aberpeffry: Welsh
+	Tingvall: Norwegian, Danish, Swedish, Norse
 Dithmarschen
 	Ditmarsken: Danish, Swedish, Norwegian, Norse
 Docimium
@@ -1164,29 +1153,29 @@ Docimium
 Donges
 	Dined: Breton
 Dornoch
+	Dòrnach: Irish
 	Dirnfeth: Pictish
 	Dyrnfedd: Welsh
-	Dòrnach: Irish
 Dorylaion
 	Eskisehir: Turkish
 Douglas
+	Duunglasc: Pictish
 	Duonglassafon: Welsh
 	Duboglassio: Irish
-	Duunglasc: Pictish
 Downpatrick
 	Strangfjorðr: Norse
 	Strangfjord: Norwegian, Swedish, Danish
 Dresden
 	Drezdany: Pommeranian
 Dublin
-	Dulyn: Welsh
 	Dubhlinn: Irish
 	Dyflinn: Norse
+	Dulyn: Welsh
 Dumbarton
 	Alcluit: Pictish
 Dumfries
-	Dunrad: Pictish
 	Dinrhyd: Welsh
+	Dunrad: Pictish
 Dunbeath
 	Dunbathac: Pictish
 	Dinbyddag: Welsh
@@ -1199,15 +1188,15 @@ Dundee
 	Orrea: Pictish
 	Dindân: Welsh
 Dunfermline
-	Dinfirllyn: Welsh
 	Dunfurlan: Pictish
+	Dinfirllyn: Welsh
 Dunhuang
 	Dukhan: Uyghur
 Dunragit
 	Dunreget: Pictish
 Dunrobin
-	Dùnrhobert: Irish
 	Dunrubert: Pictish
+	Dùnrhobert: Irish
 	Dinraibeart: Welsh
 Dunure
 	Dunauen: Pictish
@@ -1216,8 +1205,8 @@ Durham
 Durrow
 	Darú: Irish
 Durrës
-	Durazzo: Italian
 	Dyrrhachion: Greek
+	Durazzo: Italian
 Dénia
 	Deniyya: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
 Döderhult
@@ -1225,16 +1214,16 @@ Döderhult
 Eckerö
 	Eckerø: Norwegian, Danish
 Ednam
-	Aeddantref: Welsh
 	Aethontreh: Pictish
+	Aeddantref: Welsh
 Elgin
-	Eruan: Pictish
-	Aergwyn: Welsh
 	Ailgin: Irish
+	Aergwyn: Welsh
+	Eruan: Pictish
 Ellon
-	Ynysol: Welsh
 	Inseeol: Pictish
 	Eilean: Irish
+	Ynysol: Welsh
 Emli
 	Gish: Georgian
 	Kish: Alan
@@ -1281,51 +1270,51 @@ Fischhausen
 Flensborg
 	Flensburg: German
 Forres
-	Gwerrys: Welsh
 	Uerris: Pictish
 	Farrais: Irish
+	Gwerrys: Welsh
 Fortingall
 	Iuenlan: Pictish
 	Ywenllan: Welsh
 	Iubharcille: Irish
 Fortrose
 	Caerrosan: Pictish
-	Caerrhosan: Welsh
 	Dùnrois: Irish
+	Caerrhosan: Welsh
 Fougeres
 	Felger: Breton
 Freswick
-	Aberfawr: Welsh
 	Aberfauur: Pictish
+	Aberfawr: Welsh
 	Fresvik: Swedish, Danish, Norwegian, Norse
 Friedland
 	Mirów: Pommeranian
 Funningur
-	Fionnach: Irish
-	Uenaeth: Pictish
 	Gwynaidd: Welsh
+	Uenaeth: Pictish
+	Fionnach: Irish
 Fyvie
+	Carubran: Pictish
 	Carwbryn: Welsh
 	Fiachein: Irish
-	Carubran: Pictish
 Färnebo
 	Færnebo: Norwegian, Danish
 Gallipoli
-	Gelibolu: Turkish
 	Kallipolis: Greek
+	Gelibolu: Turkish
 Ganja
-	Gandzak: Armenian
 	Gandza: Georgian, Alan
+	Gandzak: Armenian
 Gargzdai
+	Garsden: German, Swedish, Norse, Danish, Norwegian
 	Gorzhdy: Russian
 	Gorzdy: Polish
-	Garsden: German, Swedish, Norse, Danish, Norwegian
 Gartan
 	Gartán: Irish
 Gaujiena
 	Atzeles: Lithuanian
-	Atsela: Ugricbaltic
 	Adsel: German
+	Atsela: Ugricbaltic
 Gelersen-Görersen
 	Kalaberd: Armenian, Georgian, Alan
 Germanias
@@ -1333,17 +1322,17 @@ Germanias
 Gevezin
 	Radgosc: Pommeranian
 Girgenti
-	Kerkent: Andalusian, Maghreb, Bedouin, Egyptian, Levantine
 	Agrigenton: Greek
+	Kerkent: Andalusian, Maghreb, Bedouin, Egyptian, Levantine
 Gjirokastër
 	Argyrokastron: Greek
 Glasgow
-	Glaschu: Irish
 	Cathures: Welsh
 	Catuuris: Pictish
+	Glaschu: Irish
 Glen Dochart
-	Cillefhinn: Irish
 	Lanuan: Pictish
+	Cillefhinn: Irish
 	Llangwyn: Welsh
 Glenluce
 	Ulanchuan: Pictish
@@ -1356,8 +1345,8 @@ Glückstadt
 Gniezno
 	Gnesen: German, Swedish, Norse, Norwegian, Danish
 Golspie
-	Goillspidh: Irish
 	Fostreh: Pictish
+	Goillspidh: Irish
 	Ffostref: Welsh
 Gorodishche
 	Alaborg: Swedish, Norse, Danish, Norwegian
@@ -1366,8 +1355,8 @@ Gowran
 Grandtully
 	Uuag: Pictish
 Greenan
-	Aberaeron: Welsh
 	Abereron: Pictish
+	Aberaeron: Welsh
 Greifswald
 	Gripscogh: Pommeranian
 Grönhögen
@@ -1403,8 +1392,8 @@ Halle
 Hamburg
 	Hamborg: Danish, Swedish, Norwegian, Norse
 Hanko
-	Hangø: Norwegian, Danish
 	Hangö: Swedish, Norse
+	Hangø: Norwegian, Danish
 Harburg
 	Harborg: Danish, Swedish, Norwegian, Norse
 Hedeby
@@ -1418,17 +1407,17 @@ Henrykow
 Herakleia
 	Eregli: Turkish
 Hermoupolis
-	Syra: Italian
 	Sire: Turkish
+	Syra: Italian
 Hieron
 	Kadiköy: Turkish
 Hiiumaa
-	Dagö: Swedish, Norse, German
 	Dagø: Danish, Norwegian
+	Dagö: Swedish, Norse, German
 Hov
-	Eaglais: Irish
-	Eglwys: Welsh
 	Icluasc: Pictish
+	Eglwys: Welsh
+	Eaglais: Irish
 Hämeenlinna
 	Tavastehus: Swedish, Norwegian, Danish, Norse
 Härnösand
@@ -1438,25 +1427,25 @@ Iisalmi
 Ikonion
 	Konya: Turkish
 Ikskila
-	Ikkile: Polish, Lithuanian
+	Yxkull: Swedish, Norse, Danish, Norwegian
 	Ikkila: Ugricbaltic
 	Üxküll: German
-	Yxkull: Swedish, Norse, Danish, Norwegian
+	Ikkile: Polish, Lithuanian
 Inverary
-	Aberera: Pictish
 	Aberaera: Welsh
+	Aberera: Pictish
 Inverness
 	Abernis: Pictish, Welsh
 Inverurie
 	Aberury: Pictish, Welsh
 Iona
-	Auenle: Pictish
 	Ywenlle: Welsh
+	Auenle: Pictish
 Iraklio
 	Candia: Italian
-	Khandaq: Maghreb, Levantine, Egyptian, Bedouin, Andalusian
-	Kandiye: Turkish
 	Gortyn: Greek
+	Kandiye: Turkish
+	Khandaq: Maghreb, Levantine, Egyptian, Bedouin, Andalusian
 Isparta
 	Baris: Greek
 Ithaca
@@ -1464,8 +1453,8 @@ Ithaca
 Jaffa
 	Arsuf: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
 Jedburgh
-	Dingod: Welsh
 	Dungod: Pictish
+	Dingod: Welsh
 	Dùngot: Irish
 Jerpoint
 	Sheireapúin: Irish
@@ -1487,8 +1476,8 @@ Jönköping
 Jüterbog
 	Jutriboc: Pommeranian
 Kabala
-	Vartashen: Armenian, Alan
 	Vardashen: Georgian
+	Vartashen: Armenian, Alan
 Kaisereia
 	Kayseri: Turkish
 Kakisalmi
@@ -1508,8 +1497,8 @@ Kara Khorum
 	Karabalgasun: Uyghur
 Karashar
 	Yanghi: Turkish
-	Agnidesa: Sogdian
 	Arsi: Tocharian
+	Agnidesa: Sogdian
 Karin
 	Erzurum: Turkish
 Karvuna
@@ -1517,12 +1506,12 @@ Karvuna
 Kashgar
 	Kasake: Tocharian
 Kelso
-	Calchfynydd: Welsh
 	Calchanith: Pictish
 	Cealsaidh: Irish
+	Calchfynydd: Welsh
 Kenmore
-	Belauc: Welsh
 	Bilauc: Pictish
+	Belauc: Welsh
 	Bealach: Irish
 Khotan
 	Hotan: Uyghur
@@ -1531,33 +1520,33 @@ Khotchino
 Kidwelly
 	Cydweli: Welsh
 Kiev
-	Könugarðr: Norse
 	Könugård: Swedish
+	Könugarðr: Norse
 	Kønugård: Norwegian, Danish
 Kinloss
-	Canalosc: Pictish
 	Cynyddullosg: Welsh
+	Canalosc: Pictish
 	Cinnlois: Irish
 Kinross
 	Pennhadllin: Welsh
 	Pinhadlen: Pictish
 Kintore
-	Pintar: Pictish
 	Penntyrau: Welsh
+	Pintar: Pictish
 Kirkcaldy
 	Caercaled: Pictish
 Kirkcudbright
-	Cuddbertbetws: Welsh
 	Cuthberbatu: Pictish
+	Cuddbertbetws: Welsh
 Kirkjubour
 	Tyddynaueglwys: Welsh
-	Tuathanaseaglais: Irish
 	Tathinauu: Pictish
+	Tuathanaseaglais: Irish
 Kirkwall
-	Kirkuvåg: Norwegian
-	Eglwystref: Welsh
-	Kyrkovik: Danish, Swedish, Norse
 	Icluasctreh: Pictish
+	Eglwystref: Welsh
+	Kirkuvåg: Norwegian
+	Kyrkovik: Danish, Swedish, Norse
 Kizil
 	Kesil: Tocharian
 Kokenois
@@ -1573,16 +1562,16 @@ Krakow
 Kraslava
 	Kraslaw: Polish
 Kreuzburg
-	Krustpils: Lithuanian
-	Krustpilsi: Ugricbaltic
 	Krzyzbork: Polish
+	Krustpilsi: Ugricbaltic
+	Krustpils: Lithuanian
 Krosno
 	Krossen: German, Swedish, Norse, Norwegian, Danish
 Krujë
 	Krougia: Greek
 Kucha
-	Kuci: Tocharian
 	Kucina: Sogdian
+	Kuci: Tocharian
 Kumul
 	Kunlyu: Tocharian
 Kungahälla
@@ -1594,9 +1583,9 @@ Kuusisto
 	Kustø: Norwegian, Danish
 	Kustö: Swedish, Norse
 Kvivik
-	Caolbati: Irish
 	Culbachwy: Welsh
 	Culbachuu: Pictish
+	Caolbati: Irish
 Kyakhta
 	Khyaagta: Mongol
 Kyzikos
@@ -1616,8 +1605,8 @@ København
 	Köpenhamn: Swedish
 	Hafn: Norse
 Laggan
-	Nuuathuchel: Pictish
 	Neuadduchel: Welsh
+	Nuuathuchel: Pictish
 Lajazzo
 	Ayas: Armenian
 	Aegeas: Greek
@@ -1632,14 +1621,14 @@ Langonnet
 Larne
 	Latharna: Irish
 Latheron
-	Lladdaeron: Welsh
-	Latharan: Irish
 	Lathaeron: Pictish
+	Latharan: Irish
+	Lladdaeron: Welsh
 Lauenburg
 	Lauenborg: Danish, Swedish, Norwegian, Norse
 Laxey
-	Ahonugad: Pictish
 	Afoneogiaid: Welsh
+	Ahonugad: Pictish
 Lebus
 	Lubiazu: Pommeranian
 Lefkas
@@ -1651,25 +1640,25 @@ Leighlin
 Leipzig
 	Lipsk: Pommeranian
 Leith
-	Aberlydd: Welsh
-	Inverlìte: Irish
 	Aberlath: Pictish
+	Inverlìte: Irish
+	Aberlydd: Welsh
 Leitrim
 	Liatroim: Irish
 Lejre
 	Hleiðra: Norse
 Lemisele
-	Limbai: Polish
+	Lemsal: Swedish, Norse, Danish, Norwegian, German, German
 	Lemsalu: Ugricbaltic
 	Limbaiai: Lithuanian
-	Lemsal: Swedish, Norse, Danish, Norwegian, German, German
+	Limbai: Polish
 Lesmahagow
-	Lanmahau: Pictish
 	Llanmahagw: Welsh
+	Lanmahau: Pictish
 Leuchars
+	Brwyn: Welsh
 	Luchar: Pictish
 	Luachar: Irish
-	Brwyn: Welsh
 Lieto
 	Lundo: Swedish, Norse
 Lihula
@@ -1681,17 +1670,17 @@ Liinmaa
 Lillöhus
 	Lilløhus: Danish, Norwegian
 Limerick
-	Hlymrek: Norwegian, Norse
-	Lymrek: Danish, Swedish
 	Luimneach: Irish
+	Lymrek: Danish, Swedish
+	Hlymrek: Norwegian, Norse
 Limmassol
 	Leymosun: Turkish
 Linköping
-	Linkøping: Norwegian
 	Linkøbing: Danish
+	Linkøping: Norwegian
 Linlithgow
-	Glynallwedd: Welsh
 	Glanaluu: Pictish
+	Glynallwedd: Welsh
 Lisboa
 	Lishbuna: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
 Lleida
@@ -1700,15 +1689,15 @@ Loch Awe
 	Lanahon: Pictish
 	Llynafon: Welsh
 Loch Doon
-	Llyndin: Welsh
 	Balloch: Scottish
+	Llyndin: Welsh
 	Landun: Pictish
 Lochindorb
 	Lansildod: Pictish
 Lochore
-	Locháir: Irish
 	Laner: Pictish
 	Llynaer: Welsh
+	Locháir: Irish
 Lohja
 	Lojo: Swedish, Norse, Norwegian, Danish
 Lop
@@ -1737,14 +1726,14 @@ Lödöse
 Lövanger
 	Løvånger: Norwegian, Danish
 Lübeck
-	Lybæk: Danish, Norwegian
 	Lybæck: Norse
 	Liubice: Pommeranian, Polish, Bohemian, Prussian
+	Lybæk: Danish, Norwegian
 	Lybäck: Swedish
 Madderty
 	Penndu: Welsh
-	Ceanndubh: Irish
 	Pintu: Pictish
+	Ceanndubh: Irish
 Magdeburg
 	Magadoburg: Pommeranian
 Malmö
@@ -1752,11 +1741,11 @@ Malmö
 Markaryd
 	Madkharydh: Norse
 Maughold
-	Macaille: Irish
 	Mauugan: Pictish
+	Macaille: Irish
 Maxwell
-	Mabffynnon: Welsh
 	Mabfanon: Pictish
+	Mabffynnon: Welsh
 Maybole
 	Maescanatan: Pictish
 Mazara
@@ -1780,8 +1769,8 @@ Mitterburg
 	Pisino: Italian, Greek
 	Pazin: Croatian, Serbian
 Modon
-	Methone: Greek
 	Modone: Italian
+	Methone: Greek
 Monaghan
 	Muineachán: Irish
 Morlaix
@@ -1789,8 +1778,8 @@ Morlaix
 Moskva
 	Mochkava: Mordvin
 Muhu
-	Moon: Swedish, Norse, Danish, Norwegian
 	Mohn: German
+	Moon: Swedish, Norse, Danish, Norwegian
 Muness
 	Mùnis: Irish
 	Muunis: Pictish
@@ -1827,12 +1816,12 @@ Nish
 Niya
 	Cadota: Tocharian
 Norrköping
-	Norrkøping: Norwegian
 	Norrkøbing: Danish
+	Norrkøping: Norwegian
 Northmavine
+	Tuathcuing: Irish
 	Goglethculder: Pictish
 	Gogleddculdir: Welsh
-	Tuathcuing: Irish
 Novgorod
 	Holmgarðr: Norse
 	Holmgård: Swedish, Danish, Norwegian
@@ -1841,14 +1830,14 @@ Nowy Sacz
 Nyen
 	Nevanlinna: Finnish
 Nyköping
-	Nykøbing: Danish
 	Nykøping: Norwegian
+	Nykøbing: Danish
 Näsborg
-	Nesborg: Norwegian
 	Næsborg: Danish
+	Nesborg: Norwegian
 Næstved
-	Næstved: Norse
 	Nästved: Swedish
+	Næstved: Norse
 Ohrid
 	Lychnidos: Greek
 Olavinlinna
@@ -1859,27 +1848,27 @@ Opole
 Oranienburg
 	Bochzowe: Pommeranian
 Orphir
-	Aerfwr: Welsh
 	Ayrfir: Irish
 	Aerfur: Pictish
+	Aerfwr: Welsh
 Otranto
 	Hydrunton: Greek
 Oulu
 	Uleåborg: Swedish, Norse, Norwegian, Danish
 Palermo
-	Panarmos: Greek
 	Balharm: Maghreb, Levantine, Egyptian, Bedouin, Andalusian
+	Panarmos: Greek
 Parnu
-	Parnawa: Polish
 	Pernu: Lithuanian
 	Pärnu: Ugricbaltic
 	Pernau: German
+	Parnawa: Polish
 Paxos
-	Paksa: Turkish
 	Passo: Italian
+	Paksa: Turkish
 Peel
-	Pålø: Norwegian, Danish, Swedish, Norse
 	Pirtinsee: Pictish
+	Pålø: Norwegian, Danish, Swedish, Norse
 Penzlin
 	Pentzelin: Pommeranian
 Philadelphia
@@ -1887,8 +1876,8 @@ Philadelphia
 Philippopolis
 	Filibe: Turkish
 Pitlochry
-	Moulin: Pictish
 	Mhaothlinne: Irish
+	Moulin: Pictish
 Plauen
 	Ploni: Pommeranian
 Ploermel
@@ -1912,13 +1901,13 @@ Prizren
 Prusa
 	Hüdavendigar: Turkish
 Pähkinälinna
-	Nøteborg: Norwegian, Danish
-	Nöteborg: Swedish, Norse
 	Schlüsselburg: German
 	Oreshek: Russian
+	Nöteborg: Swedish, Norse
+	Nøteborg: Norwegian, Danish
 Qigexing
-	Xorqu: Uyghur
 	Kertik: Tocharian
+	Xorqu: Uyghur
 Querfurt
 	Curnfurt: Pommeranian
 Quimper
@@ -1930,16 +1919,16 @@ Quintin
 Raasepori
 	Raseborg: Swedish, Norse, Norwegian, Danish
 Ragnit
-	Ragneta: Pommeranian, Polish, Bohemian, Russian
 	Ragaine: Lithuanian, Lettigallish
 	Ragnita: Prussian
+	Ragneta: Pommeranian, Polish, Bohemian, Russian
 Ragusa
-	Raugia: Greek
 	Dubrovnik: Croatian, Serbian
+	Raugia: Greek
 Rannoch
+	Rhedyn: Welsh
 	Redan: Pictish
 	Raineach: Irish
-	Rhedyn: Welsh
 Raseiniai
 	Raseinen: German, Swedish, Norse, Danish, Norwegian
 Ratzeburg
@@ -1951,8 +1940,8 @@ Redon
 Reggio
 	Rhegion: Greek
 Renfrew
-	Bregurun: Pictish
 	Brigffroen: Welsh
+	Bregurun: Pictish
 Rennes
 	Roazhon: Breton
 Rezekne
@@ -1970,12 +1959,12 @@ Rostock
 Rostov
 	Radstofa: Swedish, Norse, Danish, Norwegian
 Roxburgh
-	Iaartreh: Pictish
 	Iârtref: Welsh
+	Iaartreh: Pictish
 Rushen
-	Resan: Pictish
-	Resyn: Welsh
 	Rosien: Irish
+	Resyn: Welsh
+	Resan: Pictish
 Samos
 	Sisam: Turkish
 Santorini
@@ -1989,27 +1978,27 @@ Schwerin
 	Zuarina: Pommeranian
 Scone
 	Sguun: Pictish
-	Sgon: Welsh
 	Sgoinde: Irish
+	Sgon: Welsh
 Sebastea
-	Sebasta: Armenian
 	Sivas: Turkish
 	Sebasteia: Greek
+	Sebasta: Armenian
 Seleukeia
 	Silifke: Turkish
 Selkirk
-	Salcraig: Irish
 	Halchraig: Pictish, Welsh
+	Salcraig: Irish
 Senj
-	Segna: Italian
-	Attienities: Greek
 	Zeng: Hungarian
+	Segna: Italian
 	Zengg: German
+	Attienities: Greek
 Serdica
 	Sofia: Bulgarian, Serbian, Croatian, Russian, Polish
 Seswegen
-	Cesvaine: Ugricbaltic, Polish, Lithuanian
 	Sesswegen: German
+	Cesvaine: Ugricbaltic, Polish, Lithuanian
 Shaki
 	Shake: Armenian, Georgian, Alan
 Shanguo
@@ -2024,8 +2013,8 @@ Skadar
 	Skoutarion: Greek
 	Scutari: Italian
 Skansin
-	Llam: Welsh
 	Lam: Pictish
+	Llam: Welsh
 	Leum: Irish
 Skulnäs
 	Skulnæs: Danish
@@ -2041,13 +2030,13 @@ Smolensk
 Smyrna
 	Izmir: Turkish
 Snizort
-	Lantalarc: Pictish
 	Llantalarican: Welsh
+	Lantalarc: Pictish
 Sopot
 	Koritsa: Greek
 Sound
-	Cleiaubae: Welsh
 	Crèadhbati: Irish
+	Cleiaubae: Welsh
 	Cliaubae: Pictish
 Sozopolis
 	Afyonkarahisar: Turkish
@@ -2065,8 +2054,8 @@ St Machar
 St Moluag
 	Malluoc: Pictish
 St. Andrews
-	Pennbaedd: Welsh
 	Pinbed: Pictish
+	Pennbaedd: Welsh
 St. Davids
 	Ramsøy: Norwegian
 	Tyddewi: Welsh
@@ -2078,15 +2067,15 @@ Staraya Ladoga
 Stettin
 	Szczecin: Pommeranian
 Stirling
-	Iuddeu: Welsh
-	Iutheu: Pictish
 	Sruighlea: Irish
+	Iutheu: Pictish
+	Iuddeu: Welsh
 Stornoway
-	Steòrnabhagh: Irish
-	Llywiobae: Welsh
-	Laueube: Pictish
 	Stornavåg: Norwegian
 	Stornavik: Danish, Swedish, Norse
+	Llywiobae: Welsh
+	Steòrnabhagh: Irish
+	Laueube: Pictish
 Stow of Wedale
 	Gallath: Pictish
 	Galladd: Welsh
@@ -2103,26 +2092,26 @@ Strängnäs
 Subashi
 	Muskriye: Tocharian
 Sulby
-	Drauuglan: Pictish
-	Sõlabyr: Norwegian, Danish, Swedish
-	Drywglyn: Welsh
 	Druígleann: Irish
+	Drywglyn: Welsh
+	Sõlabyr: Norwegian, Danish, Swedish
+	Drauuglan: Pictish
 Sumburgh
-	Tàirneanachceann: Irish
 	Taranupin: Pictish
 	Taranupenn: Welsh
+	Tàirneanachceann: Irish
 Suzdal
 	Sursdalar: Swedish, Norse, Danish, Norwegian
 Syracusa
 	Syrakousa: Greek
 Söderköping
-	Søderkøbing: Danish
 	Søderkøping: Norwegian
+	Søderkøbing: Danish
 Sölvesborg
 	Sølvesborg: Danish, Norwegian
 Sønderborg
-	Sonderburg: German
 	Sönderborg: Swedish
+	Sonderburg: German
 Tain
 	Duthactref: Welsh
 Taormina
@@ -2139,8 +2128,8 @@ Tashkurgan
 Telmissos
 	Mugla: Turkish
 Teluch
-	Doliche: Greek
 	Kadirli: Turkish
+	Doliche: Greek
 Thessaloniki
 	Salonika: Turkish
 Thirlestane
@@ -2148,21 +2137,21 @@ Thirlestane
 	Labhdar: Irish
 	Lauwedder: Welsh
 Thurso
-	Aberteuafon: Pictish
-	Abertaewafon: Welsh
 	Tjurså: Swedish
 	Tyrså: Danish, Norwegian, Norse
+	Aberteuafon: Pictish
+	Abertaewafon: Welsh
 Tingwall
-	Cymanfalleoedd: Welsh
 	Camanfalioth: Pictish
 	Coinneamhionad: Irish
+	Cymanfalleoedd: Welsh
 Toledo
 	Tulaytulah: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
 Toompea
 	Domberg: Swedish, Danish, Norwegian, German, Norse
 Torphichen
-	Treffechan: Welsh
 	Trehechan: Pictish
+	Treffechan: Welsh
 Torshälla
 	Torshælla: Norwegian, Danish
 Tortosa
@@ -2174,11 +2163,11 @@ Treguier
 Trgovite
 	Arsa: Greek
 Trieste
-	Triest: German
 	Trst: Croatian, Serbian
+	Triest: German
 Trogir
-	Trau: Italian, Hungarian
 	Tragyrion: Greek
+	Trau: Italian, Hungarian
 Tullibardine
 	Duonrhyd: Welsh
 	Duunrud: Pictish
@@ -2190,9 +2179,9 @@ Turfan
 Turku
 	Åbo: Swedish, Norse, Norwegian, Danish
 Tyninghame
+	Pisctaltreh: Pictish
 	Pistylltref: Welsh
 	Linnebaile: Irish
-	Pisctaltreh: Pictish
 Tyrnovo
 	Noba # Roman Novae: Greek
 Tyrus
@@ -2208,9 +2197,9 @@ Udine
 	Videm: Croatian, Serbian
 	Weiden: German
 Uig
-	Baetraeth: Welsh
 	Vik: Norwegian, Danish, Swedish, Norse
 	Betret: Pictish
+	Baetraeth: Welsh
 Ulvö
 	Ulvø: Norwegian, Danish
 Urquhart
@@ -2231,8 +2220,8 @@ Vannes
 Varakjani
 	Varaklani: Ugricbaltic, German
 Veglia
-	Vegl: German
 	Kyrikon: Greek
+	Vegl: German
 Verdelet
 	Sentiles: Breton
 Vidin
@@ -2251,8 +2240,8 @@ Waterford
 	Veðrafjorðr: Norse
 	Vedrafjord: Norwegian, Swedish, Danish
 Weixu
-	Hoxud: Uyghur
 	Oresu: Tocharian
+	Hoxud: Uyghur
 Wenden
 	Cesys: Lithuanian
 	Kies: Polish
@@ -2263,31 +2252,31 @@ Westray
 	Driduana: Pictish, Welsh
 	Triduana: Irish
 Wexford
-	Veisafjorðr: Norse
 	Veisafjord: Norwegian, Swedish, Danish
+	Veisafjorðr: Norse
 Whithorn
-	Taiuuan: Pictish
 	Tygwyn: Welsh
+	Taiuuan: Pictish
 Wick
-	Aberbachwy: Welsh
 	Aberbachuu: Pictish
 	Vik: Norwegian, Danish, Swedish, Norse
+	Aberbachwy: Welsh
 Wigtown
-	Faetref: Welsh
 	Betrah: Pictish
+	Faetref: Welsh
 Wismar
 	Vesimer: Pommeranian
 Wolgast
 	Wologoszcz: Pommeranian
 Wolmer
-	Wolmar: German
 	Valmiera: Ugricbaltic, Polish, Lithuanian
+	Wolmar: German
 Wroclaw
 	Breslau: German, Swedish, Norse, Norwegian, Danish
 Yama
 	Jamborg: Swedish, Norse
-	Jamburg: Danish, Norwegian, German
 	Jaama: Finnish, Samoyed, Mordvin, Lappish, Komi
+	Jamburg: Danish, Norwegian, German
 Yarkand
 	Yarkam: Tocharian
 Yecheng
