@@ -1,0 +1,2329 @@
+Russia : finnish = Suomi
+Russia : lappish = Suomi
+Russia : ugricbaltic = Suomi
+Russia : komi = Suomi
+Russia : samoyed = Suomi
+Russia : mordvin = Suomi
+Britannia : welsh = Prydain
+Britannia : irish = Alba
+Britannia : scottish = Alba
+Britannia : pictish = Alba
+Britannia : breton = Prydain
+Empires:
+Britannia
+	Alba: Irish, Scottish, Pictish
+	Prydain: Welsh, Breton
+Russia
+	Suomi: Finnish, Lappish, Ugricbaltic, Komi, Samoyed, Mordvin
+
+
+Kingdoms:
+Brittany
+	Bertangaland: Norse
+	Arymôr: Welsh
+	Bretagne: Frankish
+	Bhriotáin: Irish
+Denmark
+	Danmark: Norse, Danish, Swedish, Norwegian
+England
+	Lloegyr: Welsh, Pictish, Breton
+	Sasana: Irish
+Finland
+	Suomi: Finnish, Lappish, Ugricbaltic, Komi, Samoyed, Mordvin
+Ireland
+	Iuerthon: Pictish
+	Éire: Irish
+	Iwerzhon: Breton
+	Irland: Norse, Swedish, Danish, Norwegian
+	Iwerddon: Welsh
+Khiva
+	Sogdiana: Sogdian
+Khotan
+	Ytarimypoy: Tocharian
+	Uyghurstan: Turkish
+	Altishahr: Uyghur
+Mongolia
+	Kirghiz: Kirghiz
+	Uyghur: Uyghur
+Norway
+	Norge: Danish, Swedish, Norwegian
+	Noregr: Norse
+Rus
+	Garðariki: Norse
+Ruthenia
+	Könugarðr: Norse
+	Könugård: Swedish
+	Kønugård: Norwegian, Danish
+Scotland
+	Alban: Welsh
+	Alba: Irish, Breton
+	Skotland: Norse, Danish
+	Pictland: Pictish
+	Skottland: Swedish, Norwegian
+Sweden
+	Sviþjod: Norse
+Wales
+	Kembre: Breton
+	Brythoniaid: Welsh, Pictish
+
+
+Duchies:
+Albany
+	Alban: Pictish, Welsh
+	Albanigh: Irish
+Apulia
+	Longobardia: Greek
+Belo Ozero
+	Chud: Finnish, Samoyed, Mordvin, Lappish, Komi
+Brandenburg
+	Sorbia # Brennaburg: Pommeranian
+Brittany
+	Bertangaland: Norse
+	Briotáine: Irish
+	Llydaw: Welsh
+	Breizh: Breton
+	Bretagne: Frankish
+Capua
+	Neapolis: Greek
+Chernigov
+	Severia: Severian, Ilmenian, Mordvin
+Connacht
+	Connachta: Irish
+Courland
+	Kurland: German, Swedish, Norse, Danish, Norwegian
+	Curonia: Lettigallish, Lithuanian, Prussian
+Derbent
+	Aghbania: Armenian, Georgian, Alan
+	Albania: Greek
+Dioclea
+	Duklja: Serbian, Croatian, Bulgarian
+East Anglia
+	Norfolk: Norman, English
+Essex
+	Bedford: Norman, English
+Esztergom
+	Gran: German
+	Ostrogon: Croatian
+	Ostrihom: Bohemian
+Finland
+	Satakunta: Finnish, Lappish, Ugricbaltic, Komi, Samoyed, Mordvin
+Galloway
+	Nouantia: Pictish
+	Strathclyde: Welsh
+Hwicce
+	Gloucester: Norman, English
+Iceland
+	Island: Norse, Danish, Swedish, Norwegian
+Itil
+	Pecheneg: Pecheneg
+Jylland
+	Schleswig: German
+Jämtland
+	Jemtland: Norwegian, Danish
+	Jamtaland: Norse
+Karashar
+	Yanghi: Turkish
+	Agnidesa: Sogdian
+	Qocho: Uyghur
+Karelia
+	Karelen: Swedish, Danish, Norse, Norwegian
+	Kareliya: Russian
+Kashgar
+	Kasake: Tocharian
+Khotan
+	Hotan: Uyghur
+Kiev
+	Könugarðr: Norse
+	Könugård: Swedish
+	Kønugård: Norwegian, Danish
+Kipchak
+	Pecheneg: Pecheneg
+Kumul
+	Krorän: Tocharian
+Lancaster
+	Rheged: Welsh
+Leinster
+	Veisafjorðr: Norse
+	Laigin: Irish
+	Veisafjord: Norwegian, Swedish, Danish
+Lothian
+	Labhdaidh: Irish
+	Gododdin: Welsh
+	Lut: Pictish
+Man
+	Mann: Norwegian, Danish, Swedish, Norse
+	Manaw: Welsh
+	Mhannin: Irish
+	Manu: Pictish
+Meath
+	Mide: Irish
+	Dyflinn: Norse
+	Dublin: Norwegian, Danish, Swedish
+Mecklenburg
+	Obotritia: Pommeranian
+Meissen
+	Nisani: Pommeranian
+Mercia
+	Warwick: Norman, English
+Moldau
+	Pecheneg: Pecheneg
+Moray
+	Gwrturio: Welsh
+	Fortriu: Pictish
+	Muireb: Irish
+Moskva
+	Mochkava: Mordvin
+Munster
+	Hlymrek: Norwegian, Norse
+	Lymrek: Danish, Swedish
+	Mumu: Irish
+Northumberland
+	Northumbria: Saxon
+Novgorod
+	Holmgarðr: Norse
+	Holmgård: Swedish, Danish, Norwegian
+	Ilmen: Ilmenian, Severian, Mordvin, Samoyed, Finnish, Lappish, Ugricbaltic, Komi, Khanty
+Nyitra
+	Nitra: Bohemian
+	Neutra: German
+Orkney
+	Norðreyjar: Norse
+Prussia
+	Pruthenia: Prussian, Lithuanian, Lettigallish
+Pskov
+	Pleskau: German
+Rashka
+	Rascia: Greek
+Ryazan
+	Meshchera: Mordvin
+Salerno
+	Lukania: Greek
+Samogitia
+	Zhmudz: Polish
+	Zemaiteje: Lettigallish
+	Sameiten: German
+	Zhmud: Prussian, Russian, Pommeranian, Bohemian
+	Zemaitija: Lithuanian
+Sjælland
+	Sjælland: Norse
+	Zealand: English
+	Själland: Swedish
+Skåne
+	Scania: English
+Smolensk
+	Radimichia: Severian, Ilmenian
+Småland
+	Smáland: Norse
+Temes
+	Tamis: Serbian
+	Timis: Romanian
+The Isles
+	Söröarna: Swedish
+	Suðreyjar: Norse
+	Søreyar: Norwegian, Danish
+Turov
+	Dregovichia: Ilmenian
+Tver
+	Vyatich: Ilmenian, Severian
+Ulster
+	Strangfjorðr: Norse
+	Ulaidh: Irish
+	Strangfjord: Norwegian, Swedish, Danish
+Ungvar
+	Chrobatia: Croatian
+	Uzhorod: Bohemian
+Uppland
+	Sviþjod: Norse
+Vidin
+	Bononia: Greek
+Vitebsk
+	Kryvia: Ilmenian
+Vladimir
+	Murom: Mordvin, Samoyed
+Västergötland
+	Vestergautland: Norse
+	Vestergøtland: Norwegian, Danish
+Yaroslavl
+	Merya: Finnish, Lappish, Ugricbaltic, Komi, Samoyed, Mordvin
+York
+	Jorvik: Norwegian, Danish, Swedish, Norse
+Östergötland
+	Østergøtland: Norwegian, Danish
+	Austergautland: Norse
+
+
+Counties:
+Abauj
+	Neuburg: German
+	Abov: Bohemian
+Abydos
+	Balakhisar: Turkish
+Adrianopolis
+	Edirne: Turkish
+Agrigento
+	Kerkent: Andalusian, Maghreb, Bedouin, Egyptian, Levantine
+	Agrigenton: Greek
+Aksu
+	Bharuka: Tocharian
+Albania
+	Aghvank: Armenian
+	Albaneti: Georgian
+Alexandretta
+	Iskandarun: Bedouin, Maghreb, Levantine, Egyptian, Andalusian, Turkish
+	Hrosos: Armenian
+Altmark
+	Laczyn: Pommeranian
+Amisos
+	Amasya: Turkish
+Ancona
+	Ankon: Greek
+Angermanland
+	Angermanland: Norse
+Anhalt
+	Dolomici: Pommeranian
+Ani
+	Kars: Turkish
+Ankyra
+	Ankara: Turkish
+Aprutium
+	Interamnion: Greek
+Argyll
+	Ebithan: Pictish
+	Epiddant: Welsh
+Ascalon
+	Asqalan: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
+Atholl
+	Athfhotla: Irish
+	Fotla: Pictish
+	Focla: Welsh
+Attaleia
+	Antalya: Turkish
+Austisland
+	Östisland: Swedish
+Barcelona
+	Barshiluna: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
+Bari
+	Barion: Greek
+Belgrade
+	Singidounon: Greek
+	Belgrad: Serbian, Croatian, Bulgarian
+Bereg
+	Berg: German
+Bergenshus
+	Hordaland: Norse
+Bezhetsky Verh
+	Nevajärvi: Finnish
+Bihar
+	Bihor: Romanian
+Bornholm
+	Burgundaholmr: Norse
+Brandenburg
+	Brennaburg: Pommeranian
+Breifne
+	Bréifne: Irish
+Buchan
+	Cai: Welsh
+	Ce: Pictish
+	Beanaomh: Irish
+Caithness
+	Katanes: Norwegian
+	Caitnys: Welsh
+	Katanäs: Swedish
+	Cataibh: Irish
+	Katanæs: Danish, Norse
+	Cait: Pictish
+Capua
+	Gaeta: Greek
+Carrick
+	Aeron: Welsh
+	Ueron: Pictish
+Cephalonia
+	Iyonya: Turkish
+Chandax
+	Gortyn: Greek, Italian
+Charkliq
+	Narubho: Tocharian
+Chelminskie
+	Kulm: German, Swedish, Norwegian, Danish, Norse
+Cherchen
+	Jemotwona: Tocharian
+	Qarqan: Uyghur
+	Calmandana: Sogdian
+Chios
+	Sisam: Turkish
+Cieszyn
+	Teschen: German, Swedish, Norse, Norwegian, Danish
+Clydesdale
+	Damnunia: Pictish
+Coimbra
+	Qulumriyah: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
+Connacht
+	Connachta: Irish
+Consenza
+	Kroton: Greek
+Cordoba
+	Qurtubah: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
+Cornouaille
+	Kernev: Breton
+Cuenca
+	Kunka: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
+Danzig
+	Gdansk: Pommeranian, Polish, Bohemian, Russian, Prussian, Lithuanian, Lettigallish
+	Danzig: Swedish, Norse, Norwegian, Danish
+Denia
+	Deniyya: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
+Derby
+	Djuraby: Norwegian, Danish, Swedish, Norse
+Desmond
+	Deasmhumhain: Irish
+Dorpat
+	Dorpat: Swedish, Norse, Danish, Norwegian, German
+Dorylaion
+	Kütahya: Turkish
+Dublin
+	Dulyn: Welsh
+	Dubhlinn: Irish
+	Dyflinn: Norse
+Dunbar
+	Utudina: Pictish
+Dunhuang
+	Dukhan: Uyghur
+Dunkheger
+	Beshbalik: Uyghur
+Durham
+	Dunholm: Norwegian, Danish, Swedish, Norse
+Dwin
+	Erivan: Turkish
+Dyrrachion
+	Durazzo: Italian
+	Drach: Bulgarian
+	Drac: Serbian
+Ephesos
+	Ayasoluk: Turkish
+Erchis
+	Irtysh: Turkish, Cuman
+Esztergom
+	Gran: German
+	Ostrogon: Croatian
+	Ostrihom: Bohemian
+Euboia
+	Egriboz: Turkish
+	Negroponte: Italian
+Faereyar
+	Färöarna: Swedish
+	Caliu: Pictish
+Famagusta
+	Magusa: Turkish
+Faro
+	Uhshunubah: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
+Feher
+	Unterweissenburg: German
+Fejer
+	Stuhlweiss: German
+	Bila: Croatian
+Fife
+	Gwidd: Welsh
+	Fìobha: Irish
+	Fib: Pictish
+Finland
+	Finland: Swedish, Norwegian, Norse, Danish
+Galatia
+	Kirsehir: Turkish
+Galloway
+	Nouantia: Pictish
+	Nofant: Welsh
+Gastrikland
+	Gestrikland: Norwegian, Danish
+Gemer
+	Gömör: Hungarian
+Gnieznienskie
+	Gnesen: German, Swedish, Norse, Norwegian, Danish
+Gowrie
+	Gobharaidh: Irish
+	Circinn: Pictish
+Guria
+	Batum: Turkish
+	Lazike: Greek
+	Yeger: Armenian
+Halsingland
+	Helsingland: Norwegian, Danish, Norse
+Hamburg
+	Hamborg: Danish, Swedish, Norwegian, Norse
+Hedmark
+	Heidmark: Norse
+Herakleia
+	Eregli: Turkish
+Hereford
+	Ergyng: Welsh
+Herjedalen
+	Herjadal: Norse
+	Härjedalen: Swedish
+Holstein
+	Holsten: Danish, Swedish, Norwegian
+Hum
+	Arsa: Greek
+Ikonion
+	Konya: Turkish
+Innse Gall
+	Söröarna: Swedish
+	Suðreyjar: Norse
+	Carnonac: Pictish
+	Søreyar: Norwegian, Danish
+Isle of Man
+	Mann: Norwegian, Danish, Swedish, Norse
+Jaffa
+	Arsuf: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
+Jamtland
+	Jemtland: Norwegian, Danish
+	Jamtaland: Norse
+Jarnbaraland
+	Dalecarlia: English
+	Jernbæraland: Norwegian, Danish
+	Járnberaland: Norse
+Jylland
+	Jutland: English
+	Jütland: German
+Kaisereia
+	Kayseri: Turkish
+Kaliopolis
+	Gelibolu: Turkish
+Kandalax
+	Kandalax: Swedish, Norse, Norwegian, Danish
+Kaneia
+	Hanya: Turkish
+Kara Khoja
+	Turtam: Tocharian
+	Qocho: Uyghur
+Kara Khorum
+	Karabalgasun: Uyghur
+Karashar
+	Yanghi: Turkish
+	Agnidesa: Sogdian
+	Arsi: Tocharian
+Karelen
+	Østkarelen: Danish, Norwegian
+	Östkarelen: Swedish, Norse
+	Kareliya: Russian
+Karin
+	Erzurum: Turkish
+Karvuna
+	Krounoi: Greek
+Kashgar
+	Kasake: Tocharian
+Kexholm
+	Kexholm: Swedish, Norse, Norwegian, Danish
+Khotan
+	Hotan: Uyghur
+Kiev
+	Könugarðr: Norse
+	Könugård: Swedish
+	Kønugård: Norwegian, Danish
+Krakowskie
+	Krakau: German, Swedish, Norse, Norwegian, Danish
+Kucha
+	Kuci: Tocharian
+	Kucina: Sogdian
+Kumul
+	Kunlyu: Tocharian
+	Qamil: Mongol
+Kurs
+	Kurland: German, Swedish, Norse, Danish, Norwegian
+Kyzikos
+	Erdek: Turkish
+Laodikeia
+	Alasehir: Turkish
+Lausitz
+	Luzycka: Pommeranian
+Lecce
+	Brendesion: Greek
+Leinster
+	Veisafjorðr: Norse
+	Laigin: Irish
+	Veisafjord: Norwegian, Swedish, Danish
+Lesbos
+	Midilli: Turkish
+Lettigalians
+	Livland: Swedish, Norse, Danish, Norwegian, German
+Limisol
+	Leymosun: Turkish
+Lisboa
+	Lishbuna: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
+Litomerice
+	Leitmeritz: German, Swedish, Norse, Danish, Norwegian
+Livs
+	Lääne: Swedish, Danish
+Lleida
+	Larida: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
+Lothian
+	Labhdaidh: Irish
+	Lut: Pictish
+	Lleuddiniawn: Welsh
+Loulan
+	Qroran: Uyghur
+	Krorän: Tocharian
+Lubeck
+	Lybæk: Danish, Norwegian
+	Lybæck: Norse
+	Liubice: Pommeranian, Polish, Bohemian, Prussian
+	Lybäck: Swedish
+Lubusz
+	Lebus: German, Swedish, Norse, Norwegian, Danish
+Luntai
+	Ürümqi: Uyghur, Mongol
+	Urabo: Tocharian
+Lykandos
+	Elbistan: Turkish
+Lykia
+	Mugla: Turkish
+Mallorca
+	Mayurqa: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
+Marmaros
+	Maramuresch: German
+Mecklemburg
+	Weligrad: Pommeranian
+Meissen
+	Nisani: Pommeranian
+Menorca
+	Manurqa: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
+Messina
+	Messene: Greek
+Moray
+	Gwrturio: Welsh
+	Fortriu: Pictish
+	Muireb: Irish
+More
+	Møre: Danish, Norwegian
+Moskva
+	Mochkava: Mordvin
+Murcia
+	Mursiya: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
+Murom
+	Moramar: Swedish, Norse, Danish, Norwegian
+Naissus
+	Nish: Serbian, Croatian, Bulgarian
+Nantes
+	Naoned: Breton
+Napoli
+	Neapolis: Greek
+Narke
+	Nerke: Danish
+	Nerike: Norwegian, Norse
+Naxos
+	Kiklad: Turkish
+	Egeopelagi: Italian
+Nikaea
+	Iznik: Turkish
+Nikomedeia
+	Izmit: Turkish
+Nitra
+	Nitra: Bohemian
+	Neutra: German
+Northumberland
+	Northumbria: Saxon
+Novgorod
+	Holmgarðr: Norse
+	Holmgård: Swedish, Danish, Norwegian
+Nyland
+	Nyland: Swedish, Norse, Norwegian, Danish
+Ochrid
+	Lychnidos: Greek
+Oland
+	Øland: Norwegian, Danish
+Onega
+	Onega: Swedish, Norse, Danish, Norwegian
+	Onezhskoe: Russian
+Opole
+	Uppeln: German, Swedish, Norse, Norwegian, Danish
+Orava
+	Árva: Hungarian
+	Arwa: German
+Oriel
+	Airgíalla: Irish
+Orkney
+	Orknø: Danish
+	Orknö: Swedish, Norse
+Ormond
+	Urmhumhain: Irish
+	Veðrafjorðr: Norse
+	Vedrafjord: Norwegian, Swedish, Danish
+Osel
+	Ösel: Swedish, Norse, German
+	Øsel: Danish, Norwegian
+Ossory
+	Osraige: Irish
+Osterbotten
+	Østerbotten: Norwegian, Danish
+	Österbotten: Swedish
+	Austerbotn: Norse
+Ostergotland
+	Østergøtland: Norwegian, Danish
+	Austergautland: Norse
+Palermo
+	Panarmos: Greek
+	Balharm: Maghreb, Levantine, Egyptian, Bedouin, Andalusian
+Paphlagonia
+	Kastamonu: Turkish
+Pecs
+	Pecuj: Serbian
+	Pecuh: Croatian
+	Fünfkirchen: German
+Penthievre
+	Domnonia: Breton
+Philippopolis
+	Filibe: Turkish
+Plauen
+	Ploni: Pommeranian
+Plzen
+	Pilsen: German, Swedish, Norse, Danish, Norwegian
+Polotsk
+	Pallteskja: Swedish, Norse, Danish, Norwegian
+Poznanskie
+	Posen: German, Swedish, Norse, Norwegian, Danish
+Pressburg
+	Presporok: Bohemian
+	Pozsony: Hungarian
+Prusa
+	Bursa: Turkish
+Pskov
+	Pleskau: German
+Qalqut
+	Kallikkottai: Tamil
+Ragusa
+	Raugia: Greek
+	Dubrovnik: Croatian, Serbian
+Rashka
+	Rascia: Greek
+Reggio
+	Rhegion: Greek
+Rennes
+	Roazhon: Breton
+Reval
+	Reval: Swedish, Danish, Norwegian, German, Norse
+Ross
+	Gwidauc: Welsh
+	Ros: Irish
+	Fidach: Pictish
+Rostock
+	Rastokú: Pommeranian
+Rostov
+	Radstofa: Swedish, Norse, Danish, Norwegian
+Rugen
+	Rana: Pommeranian
+Sacz
+	Sandez: German, Swedish, Norse, Norwegian, Danish
+Sambia
+	Semba: Lithuanian, Lettigallish
+	Samland: German, Swedish, Norse, Danish, Norwegian
+Saris
+	Scharosch: German
+Satakunta
+	Satakunda: Swedish, Norse
+Savolaks
+	Savolax: Swedish, Norse, Norwegian, Danish
+Seleukeia
+	Silifke: Turkish
+Senj
+	Segna: Italian
+	Attienities: Greek
+	Zeng: Hungarian
+	Zengg: German
+Serdica
+	Sofia: Bulgarian, Serbian, Croatian, Russian, Polish
+Shetland
+	Hjaltland: Norwegian, Danish, Swedish, Norse
+Shrewsbury
+	Pengwern: Welsh
+Sieradzko
+	Schieratz: German, Swedish, Norse, Norwegian, Danish
+Silves
+	Shlib: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
+Siracusa
+	Syrakousa: Greek
+Sjaelland
+	Sjælland: Norse
+	Zealand: English
+	Själland: Swedish
+Skane
+	Scania: English
+Slesvig
+	Schleswig: German
+Slupsk
+	Stolp: German, Swedish, Norwegian, Danish, Norse
+Smolensk
+	Smaleskja: Swedish, Norse, Danish, Norwegian
+Smyrna
+	Izmir: Turkish
+Sodermanland
+	Sudermanland: Norse
+	Sødermanland: Norwegian, Danish
+Sopron
+	Ödenburg: German
+Sozopolis
+	Isparta: Turkish
+Split
+	Spalato: Italian
+	Spalathos: Greek
+Stettin
+	Szczecin: Pommeranian
+Strathearn
+	Uuanun: Pictish
+Suenik
+	Kafan: Turkish, Persian
+	Syunik: Armenian
+Suzdal
+	Sursdalar: Swedish, Norse, Danish, Norwegian
+Szekelyfold
+	Szeklerland: German
+Szekezfehervar
+	Stuhlweissenburg: German
+Tao
+	Ahiska: Turkish
+Taranto
+	Lukania: Greek
+Tarragona
+	Turtusha: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
+Tarsos
+	Darson: Armenian
+	Mersin: Turkish
+Tavasts
+	Tavastehus: Swedish, Norwegian, Danish, Norse
+Teluch
+	Gâvur: Turkish
+	Doliche: Greek
+Temes
+	Tamis: Serbian
+	Timis: Romanian
+Teviotdale
+	Heluua: Pictish
+	Calchfynydd: Welsh
+	Cealsaidh: Irish
+Thessalia
+	Tesalya: Turkish
+Thessalonike
+	Salonika: Turkish
+Thomond
+	Hlymrek: Norwegian, Norse
+	Lymrek: Danish, Swedish
+	Tuadhmhumhain: Irish
+Toledo
+	Tulaytulah: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
+Trapani
+	Mazar: Andalusian, Maghreb, Bedouin, Egyptian, Levantine
+	Drepanon: Greek
+Tyana
+	Aksaray: Turkish
+Tyrnovo
+	Moesia: Greek
+Tyrus
+	Sur: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
+Ulster
+	Strangfjorðr: Norse
+	Ulaidh: Irish
+	Strangfjord: Norwegian, Swedish, Danish
+Valencia
+	Balansiyya: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
+Vannes
+	Guened: Welsh
+	Broërec: Breton
+Varmland
+	Værmland: Danish
+	Vermaland: Norse
+	Vermland: Norwegian
+Vas
+	Eisenburg: German
+	Zelezna: Croatian
+Vaspurakan
+	Van: Turkish
+	Wan: Kurdish
+Vasterbotten
+	Vesterbotten: Norwegian, Danish
+	Vesterbotn: Norse
+Vastergotland
+	Vestergautland: Norse
+	Vestergøtland: Norwegian, Danish
+Vastmanland
+	Vestmannaland: Norse
+	Vestmanland: Norwegian, Danish
+Veglia
+	Vegl: German
+	Kyrikon: Greek
+Vestisland
+	Västisland: Swedish
+Vidin
+	Bononia: Greek
+Viken
+	Alfheimr: Norse
+Vodi
+	Inkeri: Finnish
+	Ingriya: Russian, Ilmenian, Severian
+	Ingermanland: Swedish
+Werle
+	Dymin: Pommeranian
+West Dvina
+	Lettgallen: Swedish, Norse, Danish, Norwegian, German
+Wolgast
+	Wologoszcz: Pommeranian
+Yarkand
+	Yarkam: Tocharian
+York
+	Jorvik: Norwegian, Danish, Swedish, Norse
+Zadar
+	Diadora: Greek
+	Zara: Italian
+Zaragoza
+	Saraqusta: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
+Zemigalians
+	Riga: German, Swedish, Norse, Danish, Norwegian
+Zhmud
+	Zhmudz: Polish
+	Zemaiteje: Lettigallish
+	Sameiten: German
+	Zhmud: Prussian, Russian, Pommeranian, Bohemian
+	Zemaitija: Lithuanian
+
+
+Baronies:
+Aarhus
+	Århus: Swedish
+Abenrå
+	Apenrade: German
+	Åbenrå: Swedish
+Abercorn
+	Abercarnedd: Welsh
+	Abercarn: Pictish
+Aberdeen
+	Aberdwyafon: Welsh
+Aberffraw
+	Anglesey: English, Saxon
+	Ongullsøy: Norwegian
+Abydos
+	Balakhisar: Turkish
+Adapazari
+	Mesonesion: Greek
+Adrianopolis
+	Edirne: Turkish
+Aileach
+	Ailech: Irish
+Aksu
+	Bharuka: Tocharian
+Alexandretta
+	Iskandarun: Bedouin, Maghreb, Levantine, Egyptian, Andalusian, Turkish
+Alftanes
+	Alftanäs: Swedish
+Alnö
+	Alnø: Norwegian, Danish
+Alsnö
+	Alsnø: Norwegian, Danish
+Amasia
+	Amasya: Turkish
+Ancona
+	Ankon: Greek
+Ancyra
+	Ankara: Turkish
+Anklam
+	Taglim: Pommeranian
+Annandale
+	Peball: Pictish
+	Pebyll: Welsh
+Apamea
+	Tirilye: Turkish
+	Trigleia: Greek
+Applecross
+	Aporcrosan: Pictish, Welsh
+Aranäs
+	Aranæs: Danish
+	Aranes: Norwegian
+Archelais
+	Aksaray: Turkish
+Ardagh
+	Ardachadh: Irish
+Ardchattan
+	Uchdarcathan: Pictish
+	Uchdercaddan: Welsh
+Artake
+	Erdek: Turkish
+Ascalon
+	Asqalan: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
+Attaleia
+	Antalya: Turkish
+Auchterarder
+	Uchel: Pictish
+	Hufenaruchel: Welsh
+Avaskär
+	Avaskær: Danish, Norwegian
+Avoch
+	Abhach: Irish
+	Aberauc: Pictish, Welsh
+Balasagun
+	Gobalik: Mongol
+Balchik
+	Dionysopolis: Greek
+Ballantrae
+	Tretrah: Pictish
+	Traethtref: Welsh
+Balvi
+	Balvai: Lithuanian
+Bamburgh
+	Bamborg: Norwegian, Danish, Swedish, Norse
+Banff
+	Beanaomh: Irish
+	Banaugluas: Pictish
+	Benywglwys: Welsh
+Bar
+	Antivari: Italian
+	Antivarion: Greek
+Barda
+	Partav: Armenian
+	Bardavi: Georgian
+	Partavi: Alan
+Bari
+	Barion: Greek
+Barkul
+	Barköl: Turkish, Uyghur
+Bautzen
+	Budysin: Pommeranian
+Belgrade
+	Singidounon: Greek
+	Belgrad: Serbian, Croatian, Bulgarian
+Bergen
+	Bjorgvin: Norse
+Berwick
+	Bearaig: Irish
+Beshbalik
+	Basboluk: Turkish
+Bezeklik
+	Biseklis: Tocharian
+Birsay
+	Birgishærad: Norwegian, Danish, Norse
+	Brìghdechuala: Irish
+	Ffraidclywed: Welsh
+	Brideclauet: Pictish
+	Birgishärad: Swedish
+Bjärtrå
+	Bjertrå: Norwegian
+	Bjærtrå: Danish
+Blachernae
+	Ayvansaray: Turkish
+Blair Atholl
+	Athfocla: Pictish
+Borgo
+	Pyrgos: Greek
+Borovichi
+	Nygård: Swedish, Norwegian, Danish
+	Nygarðr: Norse
+Bothwell
+	Mamuanon: Pictish
+	Mamffynnon: Welsh
+Brahelinna
+	Brahehus: Swedish, Norse, Norwegian, Danish
+Brandenburg
+	Bramborska: Polish, Prussian, Pommeranian
+	Brennaburg: Pommeranian
+Brindisi
+	Brendesion: Greek
+Brzeg
+	Brieg: German, Swedish, Norse, Norwegian, Danish
+Butrint
+	Bouthroton: Greek
+Cadzow
+	Guofan: Welsh
+	Uuohan: Pictish
+Calicut
+	Kallikkottai: Tamil
+Callan
+	Callainn: Irish
+Capua
+	Kapue: Greek
+Carhaix
+	Karaez: Breton
+Carlow
+	Ceatharlach: Irish
+Castrum Maris
+	Ghawdesh: Andalusian, Maghreb, Bedouin, Egyptian, Levantine
+	Ogygia: Greek
+Cavtat
+	Ragusavecchia: Italian
+	Epidauros: Greek
+Cawdor
+	Caerdurn: Pictish
+	Caerdwrn: Welsh
+	Caladar: Irish
+Cerigo
+	Çuha: Turkish
+Chalkis
+	Egriboz: Turkish
+	Negroponte: Italian
+Changji
+	Sanji: Uyghur
+Charkliq
+	Narubho: Tocharian
+Chelmno
+	Kulm: German, Swedish, Norse, Norwegian, Danish
+Cherchen
+	Jemotwona: Tocharian
+	Qarqan: Uyghur
+	Calmandana: Sogdian
+Chios
+	Sakiz: Turkish
+Chukhur Kabala
+	Kabala: Georgian, Alan
+	Kabalak: Armenian
+Châteaubriant
+	Kastell-Briant: Breton
+Châtelaudren
+	Kastellaodren: Breton
+Cieszyn
+	Teschen: German, Swedish, Norse, Norwegian, Danish
+Cittadella
+	Birzebbugia: Italian
+Clisson
+	Klison: Breton
+Clogher
+	Clochar: Irish
+Cloyne
+	Cluain: Irish
+Clunie
+	Luned: Pictish
+	Llynaedd: Welsh
+	Cluainidh: Irish
+Coimbra
+	Qulumriyah: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
+Coldingham
+	Lanbrin: Pictish
+	Llanbryn: Welsh
+	Cillecnoc: Irish
+Conisbrough
+	Kungsborg: Norwegian, Danish, Swedish, Norse
+Constantinople
+	Ayasofya: Turkish
+Cordoba
+	Qurtubah: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
+Cork
+	Corcaigh: Irish
+Corlay
+	Korle: Breton
+Cottbus
+	Chosebuz: Pommeranian
+Crichton
+	Ffinioltref: Welsh
+	Criochdún: Irish
+	Finuultreh: Pictish
+Crieff
+	Coeden: Welsh
+	Coiden: Pictish
+	Craoibh: Irish
+Cromarty
+	Crombati: Irish
+	Crucabachu: Pictish
+	Crwcabachwy: Welsh
+Cuenca
+	Kunka: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
+Culzean
+	Pinaglan: Pictish
+	Pennyglyn: Welsh
+Cunningsburgh
+	Konungsborg: Norwegian, Danish, Swedish, Norse
+	Rìghdùn: Irish
+Cupar
+	Compàirt: Irish
+	Cafredun: Pictish
+	Cyffredin: Welsh
+Danzig
+	Gdansk: Pommeranian, Polish, Bohemian, Russian, Prussian, Lithuanian, Lettigallish
+	Danzig: Swedish, Norse, Norwegian, Danish
+Dar-us Soltan
+	Kaladasht: Armenian, Georgian, Alan
+Darieium
+	Dorieion: Greek
+	Sögüt: Turkish
+Daugavpils
+	Väinänlinna: Finnish
+	Dynaborg: Swedish, Norse, Danish, Norwegian
+	Dyneburg: Polish
+	Dünaburg: German
+	Väinalinn: Ugricbaltic
+	Daugpilis: Lithuanian
+	Dvinsk: Russian
+Deer
+	Ceiru: Pictish
+	Fiadh: Irish
+	Ceirw: Welsh
+Derby
+	Djuraby: Norwegian, Danish, Swedish, Norse
+Deuteron
+	Topkapi: Turkish
+Dingwall
+	Tingvall: Norwegian, Danish, Swedish, Norse
+	Aberpis: Pictish
+	Aberpeffry: Welsh
+Dithmarschen
+	Ditmarsken: Danish, Swedish, Norwegian, Norse
+Docimium
+	Dokimeion: Greek
+	Iscehisar: Turkish
+Donges
+	Dined: Breton
+Dornoch
+	Dirnfeth: Pictish
+	Dyrnfedd: Welsh
+	Dòrnach: Irish
+Dorylaion
+	Eskisehir: Turkish
+Douglas
+	Duonglassafon: Welsh
+	Duboglassio: Irish
+	Duunglasc: Pictish
+Downpatrick
+	Strangfjorðr: Norse
+	Strangfjord: Norwegian, Swedish, Danish
+Dresden
+	Drezdany: Pommeranian
+Dublin
+	Dulyn: Welsh
+	Dubhlinn: Irish
+	Dyflinn: Norse
+Dumbarton
+	Alcluit: Pictish
+Dumfries
+	Dunrad: Pictish
+	Dinrhyd: Welsh
+Dunbeath
+	Dunbathac: Pictish
+	Dinbyddag: Welsh
+Dunblane
+	Dinblyne: Welsh
+Dundalk
+	Kerlingfjord: Norwegian, Swedish, Danish
+	Kerlingfjorðr: Norse
+Dundee
+	Orrea: Pictish
+	Dindân: Welsh
+Dunfermline
+	Dinfirllyn: Welsh
+	Dunfurlan: Pictish
+Dunhuang
+	Dukhan: Uyghur
+Dunragit
+	Dunreget: Pictish
+Dunrobin
+	Dùnrhobert: Irish
+	Dunrubert: Pictish
+	Dinraibeart: Welsh
+Dunure
+	Dunauen: Pictish
+Durham
+	Dunholm: Norwegian, Danish, Swedish, Norse
+Durrow
+	Darú: Irish
+Durrës
+	Durazzo: Italian
+	Dyrrhachion: Greek
+Dénia
+	Deniyya: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
+Döderhult
+	Døderhult: Norwegian, Danish
+Eckerö
+	Eckerø: Norwegian, Danish
+Ednam
+	Aeddantref: Welsh
+	Aethontreh: Pictish
+Elgin
+	Eruan: Pictish
+	Aergwyn: Welsh
+	Ailgin: Irish
+Ellon
+	Ynysol: Welsh
+	Inseeol: Pictish
+	Eilean: Irish
+Emli
+	Gish: Georgian
+	Kish: Alan
+Enköping
+	Enkøbing: Danish
+	Enkøping: Norwegian
+Ennis
+	Inis: Irish
+Ephesos
+	Ayasoluk: Turkish
+Erchis
+	Irtysh: Turkish, Cuman
+Errol
+	Lannfothir: Irish
+	Llandyffryn: Welsh
+	Landafan: Pictish
+Espoo
+	Esbo: Swedish, Norse, Norwegian, Danish
+Fahan
+	Fathain: Irish
+Falkirk
+	Ecclesbrith: Welsh
+	Ecclescbret: Pictish
+Falkland
+	Fháclainne: Irish
+	Malfin: Welsh
+	Maluen: Pictish
+Falköping
+	Falkøbing: Danish
+	Falkøping: Norwegian
+Famagusta
+	Magusa: Turkish
+Faro
+	Harun: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
+Finglas
+	Fionnghlas: Irish
+Finlaggan
+	Inseepirt: Pictish
+	Ynysporth: Welsh
+Finström
+	Finstrøm: Norwegian, Danish
+Fischhausen
+	Romowe: Prussian, Pommeranian, Lithuanian, Lettigallish
+Flensborg
+	Flensburg: German
+Forres
+	Gwerrys: Welsh
+	Uerris: Pictish
+	Farrais: Irish
+Fortingall
+	Iuenlan: Pictish
+	Ywenllan: Welsh
+	Iubharcille: Irish
+Fortrose
+	Caerrosan: Pictish
+	Caerrhosan: Welsh
+	Dùnrois: Irish
+Fougeres
+	Felger: Breton
+Freswick
+	Aberfawr: Welsh
+	Aberfauur: Pictish
+	Fresvik: Swedish, Danish, Norwegian, Norse
+Friedland
+	Mirów: Pommeranian
+Funningur
+	Fionnach: Irish
+	Uenaeth: Pictish
+	Gwynaidd: Welsh
+Fyvie
+	Carwbryn: Welsh
+	Fiachein: Irish
+	Carubran: Pictish
+Färnebo
+	Færnebo: Norwegian, Danish
+Gallipoli
+	Gelibolu: Turkish
+	Kallipolis: Greek
+Ganja
+	Gandzak: Armenian
+	Gandza: Georgian, Alan
+Gargzdai
+	Gorzhdy: Russian
+	Gorzdy: Polish
+	Garsden: German, Swedish, Norse, Danish, Norwegian
+Gartan
+	Gartán: Irish
+Gaujiena
+	Atzeles: Lithuanian
+	Atsela: Ugricbaltic
+	Adsel: German
+Gelersen-Görersen
+	Kalaberd: Armenian, Georgian, Alan
+Germanias
+	Haruniye: Turkish
+Gevezin
+	Radgosc: Pommeranian
+Girgenti
+	Kerkent: Andalusian, Maghreb, Bedouin, Egyptian, Levantine
+	Agrigenton: Greek
+Gjirokastër
+	Argyrokastron: Greek
+Glasgow
+	Glaschu: Irish
+	Cathures: Welsh
+	Catuuris: Pictish
+Glen Dochart
+	Cillefhinn: Irish
+	Lanuan: Pictish
+	Llangwyn: Welsh
+Glenluce
+	Ulanchuan: Pictish
+	Glynchwyn: Welsh
+Glogow
+	Glogau: German, Swedish, Norse, Norwegian, Danish
+Glückstadt
+	Lykstad: Danish, Norwegian, Norse
+	Lyckstad: Swedish
+Gniezno
+	Gnesen: German, Swedish, Norse, Norwegian, Danish
+Golspie
+	Goillspidh: Irish
+	Fostreh: Pictish
+	Ffostref: Welsh
+Gorodishche
+	Alaborg: Swedish, Norse, Danish, Norwegian
+Gowran
+	Gabhrán: Irish
+Grandtully
+	Uuag: Pictish
+Greenan
+	Aberaeron: Welsh
+	Abereron: Pictish
+Greifswald
+	Gripscogh: Pommeranian
+Grönhögen
+	Grønhøgen: Norwegian, Danish
+Gucheng
+	Guqung: Uyghur
+Guerande
+	Gwennrann: Breton
+Guingamp
+	Gwengamp: Breton
+Gyulafehérvár
+	Balgrad: Romanian
+Gälakvist
+	Gælakvist: Norwegian, Danish
+Gällivare
+	Gellivare: Norwegian, Danish
+Göksholm
+	Gøksholm: Norwegian, Danish
+Görlitz
+	Zhorjelc: Pommeranian
+Güstrow
+	Guscerov: Pommeranian
+Haapsalu
+	Hapsal: Swedish, Danish, Norwegian, German, Norse
+Haderslev
+	Hadersleben: German
+Haldensleben
+	Hahaldeslevo: Pommeranian
+Halikarnassos
+	Bodrum: Turkish
+Halle
+	Dobrebora: Pommeranian
+Hamburg
+	Hamborg: Danish, Swedish, Norwegian, Norse
+Hanko
+	Hangø: Norwegian, Danish
+	Hangö: Swedish, Norse
+Harburg
+	Harborg: Danish, Swedish, Norwegian, Norse
+Hedeby
+	Heiðabyr: Norse
+Helsingør
+	Helsingör: Swedish, Norse
+Hennebont
+	Henbont: Breton
+Henrykow
+	Heinrichau: German, Swedish, Norse, Norwegian, Danish
+Herakleia
+	Eregli: Turkish
+Hermoupolis
+	Syra: Italian
+	Sire: Turkish
+Hieron
+	Kadiköy: Turkish
+Hiiumaa
+	Dagö: Swedish, Norse, German
+	Dagø: Danish, Norwegian
+Hov
+	Eaglais: Irish
+	Eglwys: Welsh
+	Icluasc: Pictish
+Hämeenlinna
+	Tavastehus: Swedish, Norwegian, Danish, Norse
+Härnösand
+	Hærnøsand: Norwegian, Danish
+Iisalmi
+	Idensalmi: Swedish, Norse, Norwegian, Danish
+Ikonion
+	Konya: Turkish
+Ikskila
+	Ikkile: Polish, Lithuanian
+	Ikkila: Ugricbaltic
+	Üxküll: German
+	Yxkull: Swedish, Norse, Danish, Norwegian
+Inverary
+	Aberera: Pictish
+	Aberaera: Welsh
+Inverness
+	Abernis: Pictish, Welsh
+Inverurie
+	Aberury: Pictish, Welsh
+Iona
+	Auenle: Pictish
+	Ywenlle: Welsh
+Iraklio
+	Candia: Italian
+	Khandaq: Maghreb, Levantine, Egyptian, Bedouin, Andalusian
+	Kandiye: Turkish
+	Gortyn: Greek
+Isparta
+	Baris: Greek
+Ithaca
+	Fiaki: Turkish
+Jaffa
+	Arsuf: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
+Jedburgh
+	Dingod: Welsh
+	Dungod: Pictish
+	Dùngot: Irish
+Jerpoint
+	Sheireapúin: Irish
+Jersika
+	Gerzika: German
+Jiaohe
+	Gauhar: Tocharian
+	Yarkhoto: Uyghur
+Josselin
+	Josilin: Breton
+Jurbarkas
+	Georgsborg: Swedish, Norse, Danish, Norwegian
+	Georgenburg: German
+Jättendal
+	Jættendal: Norwegian, Danish
+Jönköping
+	Jønkøping: Norwegian
+	Jønkøbing: Danish
+Jüterbog
+	Jutriboc: Pommeranian
+Kabala
+	Vartashen: Armenian, Alan
+	Vardashen: Georgian
+Kaisereia
+	Kayseri: Turkish
+Kakisalmi
+	Kexholm: Swedish, Norse, Norwegian, Danish
+	Korela: Russian
+Kalevan
+	Reval: Swedish, Danish, Norwegian, German, Norse
+Kaliakra
+	Akrai: Greek
+Kandia
+	Hanya: Turkish
+Kantalahti
+	Kandalax: Swedish, Norse, Norwegian, Danish
+Kara Khoja
+	Koto: Tocharian
+Kara Khorum
+	Karabalgasun: Uyghur
+Karashar
+	Yanghi: Turkish
+	Agnidesa: Sogdian
+	Arsi: Tocharian
+Karin
+	Erzurum: Turkish
+Karvuna
+	Krounoi: Greek
+Kashgar
+	Kasake: Tocharian
+Kelso
+	Calchfynydd: Welsh
+	Calchanith: Pictish
+	Cealsaidh: Irish
+Kenmore
+	Belauc: Welsh
+	Bilauc: Pictish
+	Bealach: Irish
+Khotan
+	Hotan: Uyghur
+Khotchino
+	Hatsina: Finnish, Swedish, Norse
+Kidwelly
+	Cydweli: Welsh
+Kiev
+	Könugarðr: Norse
+	Könugård: Swedish
+	Kønugård: Norwegian, Danish
+Kinloss
+	Canalosc: Pictish
+	Cynyddullosg: Welsh
+	Cinnlois: Irish
+Kinross
+	Pennhadllin: Welsh
+	Pinhadlen: Pictish
+Kintore
+	Pintar: Pictish
+	Penntyrau: Welsh
+Kirkcaldy
+	Caercaled: Pictish
+Kirkcudbright
+	Cuddbertbetws: Welsh
+	Cuthberbatu: Pictish
+Kirkjubour
+	Tyddynaueglwys: Welsh
+	Tuathanaseaglais: Irish
+	Tathinauu: Pictish
+Kirkwall
+	Kirkuvåg: Norwegian
+	Eglwystref: Welsh
+	Kyrkovik: Danish, Swedish, Norse
+	Icluasctreh: Pictish
+Kizil
+	Kesil: Tocharian
+Kokenois
+	Koknese: Ugricbaltic, Polish, Lithuanian
+	Kokenhusen: German
+Kotiaion
+	Kütahya: Turkish
+Kotor
+	Cattaro: Italian
+	Askrivion: Greek
+Krakow
+	Krakau: German, Swedish, Norse, Norwegian, Danish
+Kraslava
+	Kraslaw: Polish
+Kreuzburg
+	Krustpils: Lithuanian
+	Krustpilsi: Ugricbaltic
+	Krzyzbork: Polish
+Krosno
+	Krossen: German, Swedish, Norse, Norwegian, Danish
+Krujë
+	Krougia: Greek
+Kucha
+	Kuci: Tocharian
+	Kucina: Sogdian
+Kumul
+	Kunlyu: Tocharian
+Kungahälla
+	Kungahælla: Norwegian, Danish
+Kuressaare
+	Arensburg: German
+	Arensborg: Swedish, Norse, Danish, Norwegian
+Kuusisto
+	Kustø: Norwegian, Danish
+	Kustö: Swedish, Norse
+Kvivik
+	Caolbati: Irish
+	Culbachwy: Welsh
+	Culbachuu: Pictish
+Kyakhta
+	Khyaagta: Mongol
+Kyzikos
+	Aydincik: Turkish
+Königsberg
+	Krolewiec: Polish, Prussian, Pommeranian, Lithuanian, Lettigallish, Bohemian
+Köping
+	Køping: Norwegian
+	Købing: Danish
+Köpingshus
+	Køpingshus: Norwegian
+	Købingshus: Danish
+Köpingsvik
+	Køpingsvik: Norwegian
+	Købingsvik: Danish
+København
+	Köpenhamn: Swedish
+	Hafn: Norse
+Laggan
+	Nuuathuchel: Pictish
+	Neuadduchel: Welsh
+Lajazzo
+	Ayas: Armenian
+	Aegeas: Greek
+Lanark
+	Lanerc: Welsh
+	Lanirc: Pictish
+	Lannraig: Irish
+LandÉvennec
+	Landevenneg: Breton
+Langonnet
+	Langoned: Breton
+Larne
+	Latharna: Irish
+Latheron
+	Lladdaeron: Welsh
+	Latharan: Irish
+	Lathaeron: Pictish
+Lauenburg
+	Lauenborg: Danish, Swedish, Norwegian, Norse
+Laxey
+	Ahonugad: Pictish
+	Afoneogiaid: Welsh
+Lebus
+	Lubiazu: Pommeranian
+Lefkas
+	Ayamavra: Turkish
+Legnica
+	Liegnitz: German, Swedish, Norse, Norwegian, Danish
+Leighlin
+	Leithghlinn: Irish
+Leipzig
+	Lipsk: Pommeranian
+Leith
+	Aberlydd: Welsh
+	Inverlìte: Irish
+	Aberlath: Pictish
+Leitrim
+	Liatroim: Irish
+Lejre
+	Hleiðra: Norse
+Lemisele
+	Limbai: Polish
+	Lemsalu: Ugricbaltic
+	Limbaiai: Lithuanian
+	Lemsal: Swedish, Norse, Danish, Norwegian, German, German
+Lesmahagow
+	Lanmahau: Pictish
+	Llanmahagw: Welsh
+Leuchars
+	Luchar: Pictish
+	Luachar: Irish
+	Brwyn: Welsh
+Lieto
+	Lundo: Swedish, Norse
+Lihula
+	Leal: German, Norse, German
+	Lehal: Swedish, Danish, Norwegian
+Liinmaa
+	Vreghdenborch: German
+	Vredenborg: Swedish, Norse, Norwegian, Danish
+Lillöhus
+	Lilløhus: Danish, Norwegian
+Limerick
+	Hlymrek: Norwegian, Norse
+	Lymrek: Danish, Swedish
+	Luimneach: Irish
+Limmassol
+	Leymosun: Turkish
+Linköping
+	Linkøping: Norwegian
+	Linkøbing: Danish
+Linlithgow
+	Glynallwedd: Welsh
+	Glanaluu: Pictish
+Lisboa
+	Lishbuna: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
+Lleida
+	Larida: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
+Loch Awe
+	Lanahon: Pictish
+	Llynafon: Welsh
+Loch Doon
+	Llyndin: Welsh
+	Balloch: Scottish
+	Landun: Pictish
+Lochindorb
+	Lansildod: Pictish
+Lochore
+	Locháir: Irish
+	Laner: Pictish
+	Llynaer: Welsh
+Lohja
+	Lojo: Swedish, Norse, Norwegian, Danish
+Lop
+	Lyam: Tocharian
+Lopnor
+	Salyilyam: Tocharian
+Louth
+	Lúghbhaidh: Irish
+Lowestoft
+	Lothvistoft: Danish, Swedish, Norwegian, Norse
+Lubusz
+	Lebus: German, Swedish, Norse, Norwegian, Danish
+Ludza
+	Lucyn: Polish
+Lukau
+	Luckawa: Pommeranian
+Luntai
+	Ürümqi: Uyghur, Mongol
+	Urabo: Tocharian
+Lykandos
+	Elbistan: Turkish
+Läckö
+	Læckø: Norwegian, Danish
+Lödöse
+	Lødøse: Norwegian, Danish
+Lövanger
+	Løvånger: Norwegian, Danish
+Lübeck
+	Lybæk: Danish, Norwegian
+	Lybæck: Norse
+	Liubice: Pommeranian, Polish, Bohemian, Prussian
+	Lybäck: Swedish
+Madderty
+	Penndu: Welsh
+	Ceanndubh: Irish
+	Pintu: Pictish
+Magdeburg
+	Magadoburg: Pommeranian
+Malmö
+	Malmø: Danish, Norwegian
+Markaryd
+	Madkharydh: Norse
+Maughold
+	Macaille: Irish
+	Mauugan: Pictish
+Maxwell
+	Mabffynnon: Welsh
+	Mabfanon: Pictish
+Maybole
+	Maescanatan: Pictish
+Mazara
+	Mazar: Andalusian, Maghreb, Bedouin, Egyptian, Levantine
+Mdina
+	Melitta: Greek
+Mecklenburg
+	Weligrad: Pommeranian
+Meissen
+	Misni: Pommeranian
+Melrose
+	Maelruusan: Pictish
+	Mailrhosan: Welsh
+Merkit
+	Mergid: Mongol
+Messina
+	Messene: Greek
+Mikissos
+	Kirsehir: Turkish
+Mitterburg
+	Pisino: Italian, Greek
+	Pazin: Croatian, Serbian
+Modon
+	Methone: Greek
+	Modone: Italian
+Monaghan
+	Muineachán: Irish
+Morlaix
+	Montroulez: Breton
+Moskva
+	Mochkava: Mordvin
+Muhu
+	Moon: Swedish, Norse, Danish, Norwegian
+	Mohn: German
+Muness
+	Mùnis: Irish
+	Muunis: Pictish
+	Mwynis: Welsh
+Murcia
+	Mursiya: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
+Murom
+	Moramar: Swedish, Norse, Danish, Norwegian
+Mylasa
+	Milas: Turkish
+Mytilene
+	Midilli: Turkish
+Naantali
+	Nådendal: Swedish, Norse, Norwegian, Danish
+Nairn
+	Abernard: Pictish, Welsh
+Nantes
+	Naoned: Breton
+Napoli
+	Neapolis: Greek
+Naxos
+	Naksa: Turkish
+	Nasso: Italian
+Nexø
+	Nexö: Swedish, Norse
+Nida
+	Nidden: German
+Nikaea
+	Iznik: Turkish
+Nikomedeia
+	Izmit: Turkish
+Nish
+	Naissos: Greek
+Niya
+	Cadota: Tocharian
+Norrköping
+	Norrkøping: Norwegian
+	Norrkøbing: Danish
+Northmavine
+	Goglethculder: Pictish
+	Gogleddculdir: Welsh
+	Tuathcuing: Irish
+Novgorod
+	Holmgarðr: Norse
+	Holmgård: Swedish, Danish, Norwegian
+Nowy Sacz
+	Nysand: Swedish, Norse, Norwegian, Danish
+Nyen
+	Nevanlinna: Finnish
+Nyköping
+	Nykøbing: Danish
+	Nykøping: Norwegian
+Näsborg
+	Nesborg: Norwegian
+	Næsborg: Danish
+Næstved
+	Næstved: Norse
+	Nästved: Swedish
+Ohrid
+	Lychnidos: Greek
+Olavinlinna
+	Olofsborg: Swedish, Norse
+	Olavsborg: Norwegian, Danish
+Opole
+	Uppeln: German, Swedish, Norse, Norwegian, Danish
+Oranienburg
+	Bochzowe: Pommeranian
+Orphir
+	Aerfwr: Welsh
+	Ayrfir: Irish
+	Aerfur: Pictish
+Otranto
+	Hydrunton: Greek
+Oulu
+	Uleåborg: Swedish, Norse, Norwegian, Danish
+Palermo
+	Panarmos: Greek
+	Balharm: Maghreb, Levantine, Egyptian, Bedouin, Andalusian
+Parnu
+	Parnawa: Polish
+	Pernu: Lithuanian
+	Pärnu: Ugricbaltic
+	Pernau: German
+Paxos
+	Paksa: Turkish
+	Passo: Italian
+Peel
+	Pålø: Norwegian, Danish, Swedish, Norse
+	Pirtinsee: Pictish
+Penzlin
+	Pentzelin: Pommeranian
+Philadelphia
+	Alasehir: Turkish
+Philippopolis
+	Filibe: Turkish
+Pitlochry
+	Moulin: Pictish
+	Mhaothlinne: Irish
+Plauen
+	Ploni: Pommeranian
+Ploermel
+	Ploermael: Breton
+Plourivo
+	Plourivoù: Breton
+Plzen
+	Pilsen: German, Swedish, Norse, Danish, Norwegian
+Podgorica
+	Birziminium: Greek
+Polotsk
+	Pallteskja: Swedish, Norse, Danish, Norwegian
+Pontivy
+	Pondi: Breton
+Porvoo
+	Borgå: Swedish, Norse, Norwegian, Danish
+Poznan
+	Posen: German, Swedish, Norse, Norwegian, Danish
+Prizren
+	Petrizen: Greek
+Prusa
+	Hüdavendigar: Turkish
+Pähkinälinna
+	Nøteborg: Norwegian, Danish
+	Nöteborg: Swedish, Norse
+	Schlüsselburg: German
+	Oreshek: Russian
+Qigexing
+	Xorqu: Uyghur
+	Kertik: Tocharian
+Querfurt
+	Curnfurt: Pommeranian
+Quimper
+	Kemper: Breton
+Quimperle
+	Kemperle: Breton
+Quintin
+	Kintin: Breton
+Raasepori
+	Raseborg: Swedish, Norse, Norwegian, Danish
+Ragnit
+	Ragneta: Pommeranian, Polish, Bohemian, Russian
+	Ragaine: Lithuanian, Lettigallish
+	Ragnita: Prussian
+Ragusa
+	Raugia: Greek
+	Dubrovnik: Croatian, Serbian
+Rannoch
+	Redan: Pictish
+	Raineach: Irish
+	Rhedyn: Welsh
+Raseiniai
+	Raseinen: German, Swedish, Norse, Danish, Norwegian
+Ratzeburg
+	Ratseborg: Danish, Swedish, Norse, Norwegian
+Rauma
+	Raumo: Swedish, Norse
+Redon
+	Ridined: Breton
+Reggio
+	Rhegion: Greek
+Renfrew
+	Bregurun: Pictish
+	Brigffroen: Welsh
+Rennes
+	Roazhon: Breton
+Rezekne
+	Rzezyca: Polish
+Rhosus
+	Hrosos: Armenian
+Ringkøbing
+	Ringköping: Swedish, Norse
+Roscoff
+	Rosko: Breton
+Rosemarkie
+	Rosanmairch: Pictish
+Rostock
+	Rastokú: Pommeranian
+Rostov
+	Radstofa: Swedish, Norse, Danish, Norwegian
+Roxburgh
+	Iaartreh: Pictish
+	Iârtref: Welsh
+Rushen
+	Resan: Pictish
+	Resyn: Welsh
+	Rosien: Irish
+Samos
+	Sisam: Turkish
+Santorini
+	Thera: Greek
+	Santoron: Turkish
+Sayan
+	Kogmen: Turkish
+Scarborough
+	Skardaborg: Norwegian, Danish, Swedish, Norse
+Schwerin
+	Zuarina: Pommeranian
+Scone
+	Sguun: Pictish
+	Sgon: Welsh
+	Sgoinde: Irish
+Sebastea
+	Sebasta: Armenian
+	Sivas: Turkish
+	Sebasteia: Greek
+Seleukeia
+	Silifke: Turkish
+Selkirk
+	Salcraig: Irish
+	Halchraig: Pictish, Welsh
+Senj
+	Segna: Italian
+	Attienities: Greek
+	Zeng: Hungarian
+	Zengg: German
+Serdica
+	Sofia: Bulgarian, Serbian, Croatian, Russian, Polish
+Seswegen
+	Cesvaine: Ugricbaltic, Polish, Lithuanian
+	Sesswegen: German
+Shaki
+	Shake: Armenian, Georgian, Alan
+Shanguo
+	Kuruk: Uyghur
+Sieradz
+	Schieratz: German, Swedish, Norse, Norwegian, Danish
+Silves
+	Shlib: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
+Siuntio
+	Sjundeå: Swedish, Norse
+Skadar
+	Skoutarion: Greek
+	Scutari: Italian
+Skansin
+	Llam: Welsh
+	Lam: Pictish
+	Leum: Irish
+Skulnäs
+	Skulnæs: Danish
+	Skulnes: Norwegian
+Skänninge
+	Skænninge: Norwegian, Danish
+Skön
+	Skøn: Norwegian, Danish
+Slupsk
+	Stolp: German, Swedish, Norwegian, Danish, Norse
+Smolensk
+	Smaleskja: Swedish, Norse, Danish, Norwegian
+Smyrna
+	Izmir: Turkish
+Snizort
+	Lantalarc: Pictish
+	Llantalarican: Welsh
+Sopot
+	Koritsa: Greek
+Sound
+	Cleiaubae: Welsh
+	Crèadhbati: Irish
+	Cliaubae: Pictish
+Sozopolis
+	Afyonkarahisar: Turkish
+Spas-na-Kholmu
+	Spångsholmr: Norse
+	Spngsholm: Norwegian
+	Spångsholm: Swedish, Danish
+Split
+	Spalato: Italian
+	Spalathos: Greek
+St Kentigern
+	Cantearn: Pictish
+St Machar
+	Mabaur: Pictish
+St Moluag
+	Malluoc: Pictish
+St. Andrews
+	Pennbaedd: Welsh
+	Pinbed: Pictish
+St. Davids
+	Ramsøy: Norwegian
+	Tyddewi: Welsh
+St. Gildas
+	Lokentaz: Breton
+Staraya Ladoga
+	Alodejoki: Finnish
+	Aldeigjuborg: Swedish, Norse, Danish, Norwegian
+Stettin
+	Szczecin: Pommeranian
+Stirling
+	Iuddeu: Welsh
+	Iutheu: Pictish
+	Sruighlea: Irish
+Stornoway
+	Steòrnabhagh: Irish
+	Llywiobae: Welsh
+	Laueube: Pictish
+	Stornavåg: Norwegian
+	Stornavik: Danish, Swedish, Norse
+Stow of Wedale
+	Gallath: Pictish
+	Galladd: Welsh
+Stralsund
+	Stralow: Pommeranian
+Strelitz
+	Streltza: Pommeranian
+Struan
+	Aberfelly: Welsh
+	Aberfel: Pictish
+Strängnäs
+	Strængnæs: Danish
+	Strængnes: Norwegian
+Subashi
+	Muskriye: Tocharian
+Sulby
+	Drauuglan: Pictish
+	Sõlabyr: Norwegian, Danish, Swedish
+	Drywglyn: Welsh
+	Druígleann: Irish
+Sumburgh
+	Tàirneanachceann: Irish
+	Taranupin: Pictish
+	Taranupenn: Welsh
+Suzdal
+	Sursdalar: Swedish, Norse, Danish, Norwegian
+Syracusa
+	Syrakousa: Greek
+Söderköping
+	Søderkøbing: Danish
+	Søderkøping: Norwegian
+Sölvesborg
+	Sølvesborg: Danish, Norwegian
+Sønderborg
+	Sonderburg: German
+	Sönderborg: Swedish
+Tain
+	Duthactref: Welsh
+Taormina
+	Taourmenion: Greek
+Taranto
+	Tarantas: Greek
+Tarsos
+	Darson: Armenian
+	Mersin: Turkish
+Tartu
+	Dorpat: Swedish, Norse, Danish, Norwegian, German
+Tashkurgan
+	Sarikol: Sogdian
+Telmissos
+	Mugla: Turkish
+Teluch
+	Doliche: Greek
+	Kadirli: Turkish
+Thessaloniki
+	Salonika: Turkish
+Thirlestane
+	Lauuether: Pictish
+	Labhdar: Irish
+	Lauwedder: Welsh
+Thurso
+	Aberteuafon: Pictish
+	Abertaewafon: Welsh
+	Tjurså: Swedish
+	Tyrså: Danish, Norwegian, Norse
+Tingwall
+	Cymanfalleoedd: Welsh
+	Camanfalioth: Pictish
+	Coinneamhionad: Irish
+Toledo
+	Tulaytulah: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
+Toompea
+	Domberg: Swedish, Danish, Norwegian, German, Norse
+Torphichen
+	Treffechan: Welsh
+	Trehechan: Pictish
+Torshälla
+	Torshælla: Norwegian, Danish
+Tortosa
+	Turtusha: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
+Trapani
+	Drepanon: Greek
+Treguier
+	Landreger: Breton
+Trgovite
+	Arsa: Greek
+Trieste
+	Triest: German
+	Trst: Croatian, Serbian
+Trogir
+	Trau: Italian, Hungarian
+	Tragyrion: Greek
+Tullibardine
+	Duonrhyd: Welsh
+	Duunrud: Pictish
+	Dubhàth: Irish
+Tumshuk
+	Tumxuk: Uyghur
+Turfan
+	Turtam: Tocharian
+Turku
+	Åbo: Swedish, Norse, Norwegian, Danish
+Tyninghame
+	Pistylltref: Welsh
+	Linnebaile: Irish
+	Pisctaltreh: Pictish
+Tyrnovo
+	Noba # Roman Novae: Greek
+Tyrus
+	Sur: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
+Täysinä
+	Tyavzino: Russian
+	Teusina: Swedish, Norwegian, Norse, Danish
+Törnsfall
+	Tørnsfall: Norwegian, Danish
+Uda
+	Üde: Mongol
+Udine
+	Videm: Croatian, Serbian
+	Weiden: German
+Uig
+	Baetraeth: Welsh
+	Vik: Norwegian, Danish, Swedish, Norse
+	Betret: Pictish
+Ulvö
+	Ulvø: Norwegian, Danish
+Urquhart
+	Airdchartdan: Irish
+	Urcarthen: Pictish
+	Aercardden: Welsh
+Usedom
+	Uznjöm: Pommeranian
+Uusikaarlepyy
+	Nykarleby: Swedish, Norse, Norwegian, Danish
+Valaam
+	Valamo: Finnish, Swedish, Norse
+València
+	Balansiyya: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
+Vannes
+	Guened: Welsh
+	Gwened: Breton
+Varakjani
+	Varaklani: Ugricbaltic, German
+Veglia
+	Vegl: German
+	Kyrikon: Greek
+Verdelet
+	Sentiles: Breton
+Vidin
+	Bononia: Greek
+Vilaka
+	Viliaka: Lithuanian
+Väderbrunn
+	Væderbrunn: Norwegian, Danish
+Västervik
+	Vestervik: Norwegian, Danish
+Västerås
+	Vesterås: Norwegian, Danish
+Växjö
+	Vexjø: Danish, Norwegian
+Waterford
+	Veðrafjorðr: Norse
+	Vedrafjord: Norwegian, Swedish, Danish
+Weixu
+	Hoxud: Uyghur
+	Oresu: Tocharian
+Wenden
+	Cesys: Lithuanian
+	Kies: Polish
+	Võnnu: Ugricbaltic
+Wensu
+	Onsu: Uyghur, Mongol
+Westray
+	Driduana: Pictish, Welsh
+	Triduana: Irish
+Wexford
+	Veisafjorðr: Norse
+	Veisafjord: Norwegian, Swedish, Danish
+Whithorn
+	Taiuuan: Pictish
+	Tygwyn: Welsh
+Wick
+	Aberbachwy: Welsh
+	Aberbachuu: Pictish
+	Vik: Norwegian, Danish, Swedish, Norse
+Wigtown
+	Faetref: Welsh
+	Betrah: Pictish
+Wismar
+	Vesimer: Pommeranian
+Wolgast
+	Wologoszcz: Pommeranian
+Wolmer
+	Wolmar: German
+	Valmiera: Ugricbaltic, Polish, Lithuanian
+Wroclaw
+	Breslau: German, Swedish, Norse, Norwegian, Danish
+Yama
+	Jamborg: Swedish, Norse
+	Jamburg: Danish, Norwegian, German
+	Jaama: Finnish, Samoyed, Mordvin, Lappish, Komi
+Yarkand
+	Yarkam: Tocharian
+Yecheng
+	Chokkuka: Uyghur
+Yiwu
+	Aratürük: Uyghur
+York
+	Jorvik: Norwegian, Danish, Swedish, Norse
+Youghal
+	Eochaill: Irish
+Zadar
+	Diadora: Greek
+	Zara: Italian
+Zagan
+	Sagan: German, Swedish, Norse, Norwegian, Danish
+Zaragoza
+	Saraqusta: Bedouin, Maghreb, Levantine, Egyptian, Andalusian
+Zeitz
+	Cici: Pommeranian
+Zerbst
+	Zirwisti: Pommeranian
+Zittau
+	Zitawa: Pommeranian
+Zmigrod
+	Trachtenberg: German, Swedish, Norse, Norwegian, Danish
+Zurico
+	Mugiarro: Italian
+Zwickau
+	Swikawa: Pommeranian
+Zübü
+	Suibu: Turkish
+Öckerö
+	Øckerø: Norwegian, Danish
+Örebro
+	Ørebro: Norwegian, Danish
+Örnsköldsvik
+	Ørnskøldsvik: Norwegian, Danish
+Österås
+	Østerås: Norwegian, Danish

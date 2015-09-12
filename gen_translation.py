@@ -166,7 +166,7 @@ class TranslationPrinter:
                 #print(line)
 
                 if self.last_type == 'e':
-                    print(self.last_name + " : " + line)
+                    #print(self.last_name + " : " + line)
                     self.e_translations[self.last_name].append(line)
                 elif self.last_type == 'k':
                     self.k_translations[self.last_name].append(line)
